@@ -1,0 +1,39 @@
+incident_id,content_modality,circulation_scope,exploitation_mode,profile_note
+LCI-0001,video,reported_public_or_commercial,commercial_distribution_alleged,Backfilled from v0.1 pilot; original evidence statuses unchanged.
+LCI-0002,video,reported_public_or_commercial,commercial_distribution_documented,Backfilled from v0.1 pilot; original evidence statuses unchanged.
+LCI-0003,video,reported_wider_circulation_unspecified,unauthorised_recording_and_sharing,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0004,video,threat_only,coercion_and_extortion,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0005,photo_and_video_reported,reported_public_posting,coercion_and_impersonation,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0006,photo,reported_public_posting,disclosure_and_impersonation,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0007,video,reported_public_posting,attention_or_monetisation_alleged,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0008,photo,reported_public_posting,post_relationship_harassment,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0009,video,reported_limited_sharing,covert_recording_and_limited_transfer,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0010,video,threat_only,covert_recording_and_extortion,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0011,video,threat_only,covert_recording_and_threat,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0012,video,not_established,unauthorised_private_recording,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0013,video,not_established,alleged_private_recording,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0014,potential_video,not_established,concealed_camera_placement,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0015,potential_video,not_established,concealed_camera_placement,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0016,photo_and_video_reported,reported_public_posting,coercion_and_disclosure,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0017,photo_and_video_reported,reported_limited_sharing,coercion_extortion_and_disclosure,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0018,photo,reported_public_posting,post_relationship_image_abuse,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0019,photo,reported_public_posting,online_image_coercion_and_extortion,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0020,video,threat_only,interpersonal_video_blackmail,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0021,video,threat_only,video_sextortion,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0022,photo,reported_limited_sharing,post_relationship_image_abuse,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0023,image_and_video,reported_public_posting,nonconsensual_disclosure,"v0.4 audited candidate; uses public documents and redacted reconstructions, no abusive content"
+LCI-0024,manipulated_images,threat_only,image_manipulation_coercion,"v0.4 audited candidate; uses public documents and redacted reconstructions, no abusive content"
+LCI-0025,image_and_video,reported_public_posting,impersonation_collection_blackmail,"v0.4 audited candidate; uses public documents and redacted reconstructions, no abusive content"
+LCI-0026,synthetic_image_and_video,reported_public_or_commercial,synthetic_identity_impersonation_publication_subscription,"Public documentation only; no images, distribution links or victim identifiers collected."
+LCI-0027,synthetic_manipulated_images,reported_public_posting,morphed_images_impersonation_harassment,"Public documentation only; no images, distribution links or victim identifiers collected."
+LCI-0028,private_image_and_video,threat_only,relationship_coercion_threat_extortion,"Public documentation only; no images, distribution links or victim identifiers collected."
+LCI-0029,synthetic_manipulated_images,threat_only,job_impersonation_capture_synthetic_image_extortion,"Reported synthetic photos used for coercion, no verified posting to the public or platform compromise."
+LCI-0030,synthetic_manipulated_photos,reported_public_posting,relationship_based_image_morphing_and_impersonation,Alleged circulation on fake social profiles according to police; does not establish authentic private recording disclosure.
+LCI-0031,synthetic_video,reported_limited_sharing,synthetic_video_family_forwarding_with_threatened_wider_posting,Reportedly sent to mother only; separate from claimed future platform publication.
+LCI-0032,private_photo_and_video_reported,reported_wider_circulation_unspecified,relationship_breakdown_two_actor_distribution_alleged,Police report of posts including messaging groups; independent media authentication unavailable.
+LCI-0033,private_photo_and_video_reported,threat_only,identity_impersonation_solicitation_and_coercive_demand,"v0.7 expansion: Police estimate 82 people supplied media; threats against them described, no authenticated image publication or media commerce."
+LCI-0034,private_video_reported,reported_public_posting,alleged_repair_device_file_copying_and_recirculation,"v0.7 expansion: Alleged public circulation attributed to complainant and police; device was entrusted to repair shop, not an authenticated remote compromise."
+LCI-0035,private_photo_and_video_reported,reported_wider_circulation_unspecified,online_acquaintance_held_media_and_fabricated_social_identity_coercion,v0.7 expansion: Accused allegedly sent and circulated images through fake IDs; extent of actual circulation beyond target not established.
+LCI-0036,synthetic_image_and_video,reported_public_posting,synthetic_harassment_fake_profiles,"v0.7 expansion: Media synthetic by police account, not genuine intimate recordings; claimed public accounts distinct from direct messages."
+LCI-0037,private_photo,reported_limited_sharing,former_partner_family_directed_disclosure,v0.7 expansion: Prospective-in-law transmission reported; no public/social posting established; OTP gained contact numbers only.
+LCI-0038,synthetic_manipulated_images,reported_limited_sharing,synthetic_image_extortion_with_family_targeted_forwarding,v0.7 expansion: Limited reported transmission to husband plus threat to upload widely; police report of payment not sale of imagery.

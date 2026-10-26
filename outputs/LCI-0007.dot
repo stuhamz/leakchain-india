@@ -1,0 +1,10 @@
+digraph "LCI-0007" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-030" [label="EV-030 | recording date unknown Police alleged unauthorised filming of women while bathing or changing in a religious event environment."];
+  "EV-031" [label="EV-031 | distribution date unknown Police alleged uploading recorded material to a video-sharing platform."];
+  "EV-030" -> "EV-031";
+  "EV-032" [label="EV-032 | enforcement date unknown Police reported a cybercrime case and an arrest."];
+  "EV-031" -> "EV-032";
+}

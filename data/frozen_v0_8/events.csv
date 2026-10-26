@@ -1,0 +1,204 @@
+event_id,incident_id,display_order,event_type,event_date,date_precision,sequence_basis,summary,platform_or_system_role,claim_ids
+EV-001,LCI-0001,1,acquisition,,unknown,analytical_stage,Investigators attributed unauthorised access to the hospital CCTV system to external actors.,recording_system,CL-001
+EV-002,LCI-0001,2,distribution,,unknown,analytical_stage,Investigators described circulation and offers to sell patient recordings via multiple online service roles.,promotion_and_messaging,CL-002
+EV-003,LCI-0001,3,detection,2025-02-17,day,reported_event_date,"The matter came to police attention and an FIR was registered, according to reporting.",law_enforcement,CL-003
+EV-004,LCI-0001,4,evidence_collection,2025-02-18,day,reported_event_date,Police reported locating footage on public video-hosting accounts during the investigation.,video_hosting,CL-004
+EV-005,LCI-0001,5,enforcement,2025-02-19,day,reported_event_date,Police announced arrests of initial suspects.,law_enforcement,CL-005
+EV-006,LCI-0001,6,prosecution,2025-05-17,day,reported_event_date,"An initial chargesheet was filed, according to the later investigative report.",court_process,CL-006
+EV-007,LCI-0001,7,prosecution,2025-09-12,day,reported_event_date,"A supplementary chargesheet was filed, according to the later investigative report.",court_process,CL-007
+EV-008,LCI-0002,1,recording,,unknown,analytical_stage,The source material was described as footage from the surveillance systems of three state-run cinemas.,recording_system,CL-008
+EV-009,LCI-0002,2,distribution,,unknown,analytical_stage,Investigative reporting documented circulation and commercial offers involving theatre footage.,promotion_and_messaging,CL-009
+EV-010,LCI-0002,3,publication,2025-12-01,day,reported_event_date,An original investigation into the circulation was published.,journalism,CL-010
+EV-011,LCI-0002,4,mitigation,2025-12-03,day,report_publication_date,Theatre management described changes to surveillance access and passwords.,institutional_response,CL-011
+EV-012,LCI-0002,5,enforcement,2025-12-05,day,reported_event_date,A cybercrime FIR was registered following a complaint by the theatre operator.,law_enforcement,CL-012
+EV-013,LCI-0002,6,oversight,2026-10-23,day,reported_event_date,The Human Rights Commission directed greater oversight of the ongoing investigation.,institutional_response,CL-013
+EV-014,LCI-0003,1,recording,,unknown,analytical_stage,Police alleged a hidden camera captured women in a clothing shop changing room.,recording_system,CL-014
+EV-015,LCI-0003,2,distribution,,unknown,analytical_stage,Investigators said some recordings were shared with peers and later circulated more widely.,private_sharing,CL-015
+EV-016,LCI-0003,3,detection,,unknown,analytical_stage,Public circulation reportedly prompted a complaint and police inspection.,complaint_and_police,CL-016
+EV-017,LCI-0003,4,enforcement,,unknown,analytical_stage,Police reported an arrest and detention linked to the investigation.,law_enforcement,CL-017
+EV-018,LCI-0004,1,recording,,unknown,analytical_stage,Police said cameras were covertly placed to record couples in hotel rooms.,hotel_room,CL-018
+EV-019,LCI-0004,2,threat,,unknown,analytical_stage,Investigators described threats to expose the recordings during alleged extortion.,threatened_disclosure,CL-019
+EV-020,LCI-0004,3,enforcement,,unknown,analytical_stage,Police announced arrests and filing of a case following investigation.,law_enforcement,CL-020
+EV-021,LCI-0004,4,mitigation,,unknown,analytical_stage,Reporting indicated the hotel platform was conducting an internal inquiry.,institutional_response,CL-021
+EV-022,LCI-0005,1,recording,,unknown,analytical_stage,Police said recordings were made during a previous personal relationship.,personal_recording,CL-022
+EV-023,LCI-0005,2,distribution,,unknown,analytical_stage,Police alleged fake social-media profiles were used to post private photos.,social_media_posting,CL-023
+EV-024,LCI-0005,3,detection,,unknown,analytical_stage,The person affected reportedly made a police complaint after continued harassment.,complaint,CL-024
+EV-025,LCI-0005,4,enforcement,,unknown,analytical_stage,Police reported arrest following their investigation.,law_enforcement,CL-025
+EV-026,LCI-0006,1,acquisition,,unknown,analytical_stage,Police reported that private photographs were initially shared during an online relationship.,relationship_based_possession,CL-026
+EV-027,LCI-0006,2,distribution,,unknown,analytical_stage,Police said private photographs were circulated using online impersonation profiles.,social_media_posting,CL-027;CL-162
+EV-028,LCI-0006,3,detection,,unknown,analytical_stage,Affected student reportedly complained to the cyber police.,complaint,CL-028
+EV-029,LCI-0006,4,enforcement,,unknown,analytical_stage,Police announced an arrest and recovery of electronic devices.,law_enforcement,CL-029;CL-163
+EV-030,LCI-0007,1,recording,,unknown,analytical_stage,Police alleged unauthorised filming of women while bathing or changing in a religious event environment.,public_event_private_activity,CL-030
+EV-031,LCI-0007,2,distribution,,unknown,analytical_stage,Police alleged uploading recorded material to a video-sharing platform.,video_hosting,CL-031
+EV-032,LCI-0007,3,enforcement,,unknown,analytical_stage,Police reported a cybercrime case and an arrest.,law_enforcement,CL-032
+EV-033,LCI-0008,1,acquisition,,unknown,analytical_stage,Police described a prior relationship and alleged possession of private photographs.,relationship_based_possession,CL-033
+EV-034,LCI-0008,2,distribution,,unknown,analytical_stage,Police alleged photos were used on messaging status and impersonation pages online.,social_media_posting,CL-034
+EV-035,LCI-0008,3,detection,,unknown,analytical_stage,The affected person reportedly became aware of the postings and was assisted with a police complaint.,complaint,CL-035
+EV-036,LCI-0008,4,enforcement,,unknown,analytical_stage,Police reported arrest following their investigation.,law_enforcement,CL-036
+EV-037,LCI-0009,1,recording,,unknown,analytical_stage,Police said a student was accused of recording another student in a private hostel bathroom.,private_recording,CL-037
+EV-038,LCI-0009,2,distribution,,unknown,analytical_stage,"Police alleged the recording was sent to one person outside the hostel, not posted publicly.",limited_direct_transfer,CL-038
+EV-039,LCI-0009,3,enforcement,,unknown,analytical_stage,Police detained the student and reported registering a case.,law_enforcement,CL-039
+EV-040,LCI-0010,1,recording,,unknown,analytical_stage,Investigators said concealed cameras recorded private encounters at a hotel.,hotel_room,CL-040
+EV-041,LCI-0010,2,threat,,unknown,analytical_stage,Investigators alleged demands for money accompanied threats involving the recordings.,coercion,CL-041
+EV-042,LCI-0010,3,enforcement,,unknown,analytical_stage,Police reported three arrests after investigating the hotel operation.,law_enforcement,CL-042
+EV-043,LCI-0011,1,recording,,unknown,analytical_stage,Police reported concealed recording of persons in a hostel bathing area.,mobile_device,CL-043;CL-164
+EV-044,LCI-0011,2,threat,,unknown,analytical_stage,Police described alleged threats to release material if complaints were made.,coercion,CL-044
+EV-045,LCI-0011,3,enforcement,,unknown,analytical_stage,Police reported arrest and transfer of devices for forensic examination.,law_enforcement,CL-045
+EV-046,LCI-0012,1,recording,,unknown,analytical_stage,Police reported discovery of a concealed recording phone in an MRI-centre changing room.,mobile_device,CL-046
+EV-047,LCI-0012,2,detection,,unknown,analytical_stage,A visitor discovered the device and reported it to authorities.,discovery,CL-047
+EV-048,LCI-0012,3,enforcement,,unknown,analytical_stage,Police detained a staff member and seized the device for forensic examination.,law_enforcement,CL-048
+EV-049,LCI-0013,1,recording,,unknown,analytical_stage,Police reported that a phone was found recording inside a hostel washroom; intent and contents were under investigation.,mobile_device,CL-049
+EV-050,LCI-0013,2,detection,,unknown,analytical_stage,Hostel residents reported finding the phone and informed police.,discovery,CL-050
+EV-051,LCI-0013,3,enforcement,,unknown,analytical_stage,Police registered an FIR and seized the device for examination.,law_enforcement,CL-051
+EV-052,LCI-0014,1,camera_placement,,unknown,analytical_stage,Police alleged cameras were placed in hostel bathrooms; whether recordings were retained or shared is not established.,camera_placement,CL-052
+EV-053,LCI-0014,2,detection,,unknown,analytical_stage,A camera-placement complaint prompted hostel protests and police inquiry.,discovery,CL-053
+EV-054,LCI-0014,3,enforcement,,unknown,analytical_stage,Police reported arrest of two persons in connection with the case.,law_enforcement,CL-054
+EV-055,LCI-0015,1,camera_placement,,unknown,analytical_stage,Residents discovered cameras concealed in charger-like devices; whether private videos were captured is unresolved.,concealed_camera,CL-055
+EV-056,LCI-0015,2,detection,,unknown,analytical_stage,Residents notified police and devices were seized.,discovery,CL-056
+EV-057,LCI-0015,3,enforcement,,unknown,analytical_stage,Police reported arrest and ongoing examination of storage devices.,law_enforcement,CL-057
+EV-058,LCI-0016,1,acquisition,,unknown,analytical_stage,Police described possession of private images and videos from an earlier relationship.,relationship_possession,CL-058
+EV-059,LCI-0016,2,threat,,unknown,analytical_stage,The person was alleged to have threatened to post the material to pressure reconciliation.,coercion,CL-059
+EV-060,LCI-0016,3,distribution,,unknown,analytical_stage,Police said images or videos were subsequently posted using an impersonating profile.,social_media_posting,CL-060
+EV-061,LCI-0016,4,enforcement,,unknown,analytical_stage,Police reported arrest and mobile-phone seizure.,law_enforcement,CL-061;CL-215
+EV-062,LCI-0017,1,acquisition,,unknown,analytical_stage,Police alleged private media was obtained during a relationship.,relationship_possession,CL-062
+EV-063,LCI-0017,2,distribution,,unknown,analytical_stage,Police reported forwarding material to acquaintances using fake social identities.,limited_sharing,CL-063;CL-108
+EV-064,LCI-0017,3,threat,,unknown,analytical_stage,Police alleged continuing coercion and extortion tied to disclosure.,coercion,CL-064
+EV-065,LCI-0017,4,enforcement,,unknown,analytical_stage,Police reported arrest and remand after a November complaint.,law_enforcement,CL-065
+EV-066,LCI-0018,1,acquisition,,unknown,analytical_stage,Reporting describes earlier relationship during which the person had possession of private photographs.,relationship_possession,CL-066
+EV-067,LCI-0018,2,distribution,,unknown,analytical_stage,Police alleged the private photos were published online following the relationship breakdown.,social_media_posting,CL-067
+EV-068,LCI-0018,3,enforcement,,unknown,analytical_stage,Cyber police travelled to another state and reported arrest.,law_enforcement,CL-068
+EV-069,LCI-0019,1,distribution,,unknown,analytical_stage,Police described online posting of private images through a fake account; original acquisition not identified.,social_media_posting,CL-069
+EV-070,LCI-0019,2,threat,,unknown,analytical_stage,An alleged monetary demand was made in exchange for disabling the account.,coercion,CL-070;CL-216
+EV-071,LCI-0019,3,enforcement,,unknown,analytical_stage,Police reported registering case and searching for suspect.,law_enforcement,CL-071
+EV-072,LCI-0020,1,recording,,unknown,analytical_stage,Police alleged victims were recorded after being lured through online contact to a private meeting.,private_recording,CL-072
+EV-073,LCI-0020,2,threat,,unknown,analytical_stage,Complainants alleged recorded material was used for blackmail.,coercion,CL-073;CL-109
+EV-074,LCI-0020,3,evidence_collection,,unknown,analytical_stage,Police said devices contained further recordings; ownership and conclusions remain allegations.,device_seizure,CL-074
+EV-075,LCI-0020,4,enforcement,,unknown,analytical_stage,Police reported two FIRs and one arrest in the investigation.,law_enforcement,CL-075
+EV-076,LCI-0021,1,recording,,unknown,analytical_stage,Police alleged an intimate video call was covertly recorded during a dating-app interaction.,video_call,CL-076
+EV-077,LCI-0021,2,threat,,unknown,analytical_stage,The recording was sent to complainant and threatened to be circulated more widely; only this private transfer established by report.,coercion,CL-077
+EV-078,LCI-0021,3,enforcement,,unknown,analytical_stage,"Police described complaint, investigation and arrests of four persons.",law_enforcement,CL-078
+EV-079,LCI-0022,1,acquisition,,unknown,analytical_stage,Police described private images being obtained during a relationship.,relationship_possession,CL-079
+EV-080,LCI-0022,2,distribution,,unknown,analytical_stage,Police reported that private images were shared with acquaintances through fake profiles.,limited_sharing,CL-080
+EV-081,LCI-0022,3,enforcement,,unknown,analytical_stage,Police reported arrest and custodial remand following cyber investigation.,law_enforcement,CL-081;CL-165
+EV-082,LCI-0023,1,acquisition,,unknown,analytical_stage,The complainant described access to her phone after the accused obtained a password without permission.,device_access,CL-082
+EV-083,LCI-0023,2,threat,,unknown,analytical_stage,The judgment recounts pressure and threats to publish private media after a relationship dispute.,interpersonal_coercion,CL-083
+EV-084,LCI-0023,3,distribution,,unknown,analytical_stage,The court convicted the accused of non-consensual online publication of private recordings.,external_hosting,CL-084
+EV-085,LCI-0023,4,enforcement,2018-03-07,day,reported_event_date,Trial court entered a criminal conviction.,court,CL-085
+EV-086,LCI-0024,1,acquisition,,unknown,analytical_stage,"According to police, a complainant reported unauthorised access to her Instagram account.",account_access,CL-086
+EV-087,LCI-0024,2,publication,,unknown,analytical_stage,"According to police, an accused produced altered images and fake profiles to pressure women.",edited_images,CL-087
+EV-088,LCI-0024,3,threat,,unknown,analytical_stage,The complainant reported threats to publish altered intimate images unless demands were met.,social_media_threat,CL-088
+EV-089,LCI-0024,4,enforcement,2020-12-29,day,reported_event_date,Delhi police arrested a suspect after account tracing and investigation.,police,CL-089
+EV-090,LCI-0025,1,acquisition,,unknown,analytical_stage,Police reported that impersonation was used to solicit private images under a false work opportunity.,social_media_contact,CL-090
+EV-091,LCI-0025,2,threat,,unknown,analytical_stage,Police described later threats and demands for additional private media.,interpersonal_coercion,CL-091
+EV-092,LCI-0025,3,distribution,,unknown,analytical_stage,Reporting says private images were posted through an impersonating profile and shared with contacts.,social_media_profile,CL-092
+EV-093,LCI-0025,4,evidence_collection,,unknown,analytical_stage,Police said forensic analysis recovered deleted images from seized devices.,device_forensics,CL-093
+EV-094,LCI-0025,5,enforcement,2022-02-28,day,reported_event_date,Delhi police announced an arrest following investigation.,police,CL-094
+EV-095,LCI-0020,5,oversight,2026-09-12,day,reported_event_date,"Local reporting states magistrate denied custodial remand, described the arrest as unlawful in one registered complaint, and released the accused on bond.",criminal_court,CL-095
+EV-096,LCI-0026,1,acquisition,,unknown,analytical_stage,Police attributed creation of synthetic representations to a former acquaintance using an adult woman’s likeness.,synthetic_content,CL-096
+EV-097,LCI-0026,2,publication,,unknown,analytical_stage,Police reported impersonating social-media profiles were used to post fabricated content.,social_media_impersonation,CL-097
+EV-098,LCI-0026,3,distribution,,unknown,analytical_stage,Investigators described a paid subscription arrangement for access to fabricated material.,paid_access_alleged,CL-098
+EV-099,LCI-0026,4,enforcement,2025-07-12,day,reported_event_date,Police reportedly arrested a person in connection with the impersonation and distribution allegations.,police,CL-099
+EV-100,LCI-0027,1,acquisition,,unknown,analytical_stage,Police reported that publicly available photos were manipulated with AI tools to create synthetic intimate depictions.,image_manipulation,CL-100
+EV-101,LCI-0027,2,publication,,unknown,analytical_stage,Police described repeated creation of impersonating social-media profiles and alleged posting to those accounts.,fake_social_media_profiles,CL-101
+EV-102,LCI-0027,3,evidence_collection,,unknown,analytical_stage,Police said digital traces associated with the online accounts were used during investigation.,technical_investigation,CL-102
+EV-103,LCI-0027,4,enforcement,2025-07-01,day,reported_event_date,Police reportedly arrested one individual and seized a phone for examination.,police,CL-103
+EV-104,LCI-0028,1,recording,,unknown,analytical_stage,A couple reportedly recorded intimate videos during their earlier relationship.,personal_devices,CL-104
+EV-105,LCI-0028,2,threat,,unknown,analytical_stage,Police said one person threatened to publish private footage to obtain money and property.,interpersonal_coercion,CL-105
+EV-106,LCI-0028,3,detection,,unknown,analytical_stage,The alleged victim approached police and described a prolonged pattern of demands.,police_complaint,CL-106
+EV-107,LCI-0028,4,enforcement,2024-12-06,day,reported_event_date,Bengaluru police announced an arrest and stated some alleged proceeds were recovered.,police,CL-107
+EV-108,LCI-0029,1,acquisition,,unknown,analytical_stage,Police allege images were captured during fake job-verification calls.,video_call_stills,CL-110
+EV-109,LCI-0029,2,synthetic_generation,,unknown,analytical_stage,Police allege captured pictures were manipulated to create explicit images.,ai_manipulation,CL-111
+EV-110,LCI-0029,3,threat,,unknown,analytical_stage,Police reported demands for money and threats to circulate manipulated images.,direct_messages,CL-112
+EV-111,LCI-0029,4,enforcement,,unknown,analytical_stage,Police reported tracing and arresting a suspect in the Delhi investigation.,police,CL-113
+EV-112,LCI-0030,1,acquisition,,unknown,analytical_stage,Reports describe access to non-explicit photographs arising from a former relationship.,existing_photos,CL-114
+EV-113,LCI-0030,2,synthetic_generation,,unknown,analytical_stage,Police alleged the original images were edited into explicit-looking versions.,image_editing,CL-115
+EV-114,LCI-0030,3,distribution,,unknown,analytical_stage,Police reported posting altered images via impersonating social accounts.,fake_social_accounts,CL-116
+EV-115,LCI-0030,4,detection,2025-04-10,day,reported_event_date,Police said a complaint was lodged in Bhubaneswar on 10 April.,cyber_police_station,CL-117
+EV-116,LCI-0030,5,enforcement,,unknown,analytical_stage,Police reported an April arrest and stated a court remanded the accused.,police_and_court,CL-118
+EV-117,LCI-0031,1,acquisition,,unknown,analytical_stage,Local reporting says an ordinary photograph was obtained as input to manipulated media.,existing_photo,CL-119
+EV-118,LCI-0031,2,synthetic_generation,,unknown,analytical_stage,Police allege an AI tool was used to construct an explicit-looking video.,ai_video_generation,CL-120
+EV-119,LCI-0031,3,distribution,,unknown,analytical_stage,Police said the fabricated video was sent directly to a family member.,direct_family_message,CL-121
+EV-120,LCI-0031,4,threat,,unknown,analytical_stage,Police reported a demand for money with a threat of wider online circulation.,coercion,CL-122
+EV-121,LCI-0031,5,enforcement,,unknown,analytical_stage,Regional police reported arrest of two suspects following a family complaint.,law_enforcement,CL-123
+EV-122,LCI-0032,1,acquisition,,unknown,analytical_stage,Police alleged that intimate media was collected during a past relationship.,relationship_possession,CL-124
+EV-123,LCI-0032,2,distribution,,unknown,analytical_stage,"Police alleged media was shared with others, with an accomplice also implicated.",online_messaging,CL-125
+EV-124,LCI-0032,3,detection,,unknown,analytical_stage,The complainant reportedly learnt of circulating private imagery and brought a police complaint.,person_to_person_alert,CL-126
+EV-125,LCI-0032,4,enforcement,,unknown,analytical_stage,Police reported at least one suspect arrested and remanded; other reports describe two arrests.,police_and_court,CL-127
+EV-126,LCI-0033,1,acquisition,,unknown,analytical_stage,Investigators alleged a fake female identity induced people to provide private media.,social_profile,CL-128
+EV-127,LCI-0033,2,threat,,unknown,analytical_stage,Police said private media was subsequently used to demand money under threats of exposure.,messaging,CL-129;CL-158
+EV-128,LCI-0033,3,detection,,unknown,analytical_stage,Police estimated online conversations and recipients; quantity units are distinct.,social_accounts,CL-130
+EV-129,LCI-0033,4,enforcement,2026-10-19,day,reported_event_date,Saidabad police reported suspect arrest and seizure of devices.,police,CL-131
+EV-130,LCI-0033,5,evidence_collection,,unknown,analytical_stage,Police reported a total claimed financial amount including an investment-cheating component.,financial_records,CL-132
+EV-131,LCI-0034,1,acquisition,,unknown,analytical_stage,Complainant alleged private clips were copied from a phone delivered to a repair shop.,repair_device,CL-133
+EV-132,LCI-0034,2,threat,,unknown,analytical_stage,Complaint describes repeated blackmail and coercion using extracted content.,private_messaging,CL-134
+EV-133,LCI-0034,3,distribution,2026-08-28,day,reported_event_date,Police cited public circulation of at least one private video on more than one occasion.,social_media,CL-135;CL-157
+EV-134,LCI-0034,4,detection,,unknown,analytical_stage,Reports describe an early complaint but contain an inconsistent January 2024 timing.,police_reporting,CL-136
+EV-135,LCI-0034,5,enforcement,,unknown,analytical_stage,Police reported filing allegations against six individuals in October 2026.,law_enforcement,CL-137
+EV-136,LCI-0035,1,acquisition,,unknown,analytical_stage,Complainant said an online acquaintance obtained photos and videos through emotional pressure.,instagram_messaging,CL-138
+EV-137,LCI-0035,2,distribution,,unknown,analytical_stage,Police described multiple impersonated social-media accounts used for online harassment.,fake_profiles,CL-139
+EV-138,LCI-0035,3,threat,,unknown,analytical_stage,"Reports describe money demands, fabricated legal notices and threats to victim or family.",social_media_email,CL-140
+EV-139,LCI-0035,4,evidence_collection,,unknown,analytical_stage,Police attributed accounts to a common telephone number and reported recovered devices.,law_enforcement,CL-141
+EV-140,LCI-0035,5,enforcement,2025-05-29,day,reported_event_date,Delhi Police reported arrest following investigation in late May.,police,CL-142
+EV-141,LCI-0036,1,acquisition,,unknown,analytical_stage,Police alleged actors downloaded ordinary public profile photographs as inputs.,public_profiles,CL-143
+EV-142,LCI-0036,2,synthetic_generation,,unknown,analytical_stage,Police reported use of online image manipulation to fabricate intimate content.,generative_tools,CL-144;CL-159
+EV-143,LCI-0036,3,publication,,unknown,analytical_stage,Police described repeated postings through fake accounts and channels.,social_platforms,CL-145
+EV-144,LCI-0036,4,detection,2026-04-06,day,reported_event_date,Complaint reportedly filed with Ahmedabad cyber police in April 2026.,police,CL-146
+EV-145,LCI-0036,5,enforcement,2026-05-28,day,reported_event_date,Ahmedabad police announced an arrest after tracing a suspect to Delhi.,police,CL-147
+EV-146,LCI-0037,1,acquisition,,unknown,analytical_stage,Complainant said a former partner persuaded her to provide an OTP and obtained contacts.,contacts_account,CL-148
+EV-147,LCI-0037,2,threat,,unknown,analytical_stage,Complainant described harassment of contacts and threats of image exposure.,phone_contacts,CL-149
+EV-148,LCI-0037,3,distribution,,unknown,analytical_stage,Photographs were allegedly sent to prospective in-laws.,direct_recipient,CL-150;CL-160
+EV-149,LCI-0037,4,detection,,unknown,analytical_stage,Complainant contacted Medipally police following disputed disclosure.,law_enforcement,CL-151
+EV-150,LCI-0038,1,acquisition,,unknown,analytical_stage,Police described original social photos used as inputs after online acquaintance.,social_profiles,CL-152
+EV-151,LCI-0038,2,synthetic_generation,,unknown,analytical_stage,Police said the images were manipulated into fake intimate content using AI.,image_generation,CL-153
+EV-152,LCI-0038,3,threat,,unknown,analytical_stage,Suspects allegedly demanded money to prevent posting of manipulated pictures.,online_messages,CL-154;CL-161
+EV-153,LCI-0038,4,distribution,,unknown,analytical_stage,One manipulated image was reportedly sent to complainant husband.,direct_messaging,CL-155
+EV-154,LCI-0038,5,enforcement,2026-05-15,day,reported_event_date,Police recorded a complaint and reportedly searched for two alleged suspects.,police,CL-156
+EV-155,LCI-0039,1,camera_placement,,unknown,analytical_stage,Investigators alleged a concealed camera was installed in a hotel room.,hotel_room,CL-166
+EV-156,LCI-0039,2,recording,,unknown,analytical_stage,Police reports described unauthorised video capture of guests.,concealed_camera,CL-167
+EV-157,LCI-0039,3,threat,,unknown,analytical_stage,A couple allegedly received demands under threat of publishing the recording.,private_messages,CL-168
+EV-158,LCI-0039,4,enforcement,,unknown,analytical_stage,Police reported arrests and device seizures after a complaint.,police,CL-169
+EV-159,LCI-0040,1,camera_placement,,unknown,analytical_stage,Police alleged surreptitious cameras were placed in private premises.,private_premises,CL-170
+EV-160,LCI-0040,2,recording,,unknown,analytical_stage,Police described recording of private moments of government staff.,concealed_devices,CL-171
+EV-161,LCI-0040,3,threat,,unknown,analytical_stage,Suspects allegedly impersonated journalists or RTI officials while making monetary demands.,press_impersonation,CL-172
+EV-162,LCI-0040,4,enforcement,,unknown,analytical_stage,Police reported arresting three suspects and seizing storage devices.,police,CL-173
+EV-163,LCI-0041,1,camera_placement,,unknown,analytical_stage,Police reported concealed cameras in hotel guest rooms.,hotel_rooms,CL-174
+EV-164,LCI-0041,2,recording,,unknown,analytical_stage,"News accounts reported numerous recordings in a seized phone, but gave conflicting totals.",seized_phone,CL-175
+EV-165,LCI-0041,3,distribution,,unknown,analytical_stage,"One newspaper alleged that some recordings were sold online, without a verified buyer list or original records.",alleged_online_market,CL-176
+EV-166,LCI-0041,4,enforcement,,unknown,analytical_stage,Police raided the hotel and reported multiple arrests.,police,CL-177
+EV-167,LCI-0042,1,acquisition,,unknown,analytical_stage,A device or stored content reportedly became the subject of a theft-related extortion complaint.,personal_device,CL-178
+EV-168,LCI-0042,2,evidence_collection,,unknown,analytical_stage,Investigators reported recovering numerous private recordings.,seized_digital_storage,CL-179
+EV-169,LCI-0042,3,detection,,unknown,analytical_stage,"Police alleged some recordings documented abuse, prompting a separate investigation.",law_enforcement,CL-180
+EV-170,LCI-0042,4,enforcement,,unknown,analytical_stage,Police reported an arrest in the subsequent case.,police,CL-181
+EV-171,LCI-0043,1,recording,,unknown,analytical_stage,Complainant alleged intimate content was acquired during a private encounter.,private_premises,CL-182
+EV-172,LCI-0043,2,threat,,unknown,analytical_stage,The content was allegedly used to demand money with threats of exposure.,personal_messages,CL-183
+EV-173,LCI-0043,3,detection,,unknown,analytical_stage,A complaint led investigators to arrange a controlled meeting.,police_trap,CL-184
+EV-174,LCI-0043,4,enforcement,,unknown,analytical_stage,Police reported detaining a suspect while receiving money in the trap.,law_enforcement,CL-185
+EV-175,LCI-0044,1,acquisition,,unknown,analytical_stage,Police alleged a suspect used a false platform-employee identity to induce video calls.,impersonation_account,CL-186
+EV-176,LCI-0044,2,recording,,unknown,analytical_stage,Private video-call interactions were allegedly captured without valid consent.,video_call,CL-187
+EV-177,LCI-0044,3,threat,,unknown,analytical_stage,Reported threats included public release or loss of platform access.,online_messages,CL-188
+EV-178,LCI-0044,4,enforcement,,unknown,analytical_stage,Police reported arresting the alleged operator after tracing communications.,police,CL-189
+EV-179,LCI-0045,1,acquisition,,unknown,analytical_stage,Complaint alleged a former acquaintance held private recordings or photographs.,personal_devices,CL-190
+EV-180,LCI-0045,2,threat,,unknown,analytical_stage,Complainant reported demands for sexual favours under exposure threats.,private_messages,CL-191
+EV-181,LCI-0045,3,evidence_collection,,unknown,analytical_stage,Investigators reportedly seized storage media containing additional content.,seized_devices,CL-192
+EV-182,LCI-0045,4,enforcement,,unknown,analytical_stage,Police reported arresting the suspect and examining other accusations.,law_enforcement,CL-193
+EV-183,LCI-0046,1,acquisition,,unknown,analytical_stage,An online friendship reportedly preceded private video calls.,social_platform,CL-194
+EV-184,LCI-0046,2,recording,,unknown,analytical_stage,Complainant alleged screenshots from private video calls were retained.,video_calls,CL-195
+EV-185,LCI-0046,3,threat,,unknown,analytical_stage,Alleged operators demanded valuables and threatened sharing with relatives.,online_messages,CL-196
+EV-186,LCI-0046,4,enforcement,,unknown,analytical_stage,Police reported arrests and efforts to recover stolen assets.,police,CL-197
+EV-187,LCI-0047,1,camera_placement,,unknown,analytical_stage,Police alleged a hidden camera was placed in a clinic.,medical_clinic,CL-198
+EV-188,LCI-0047,2,recording,,unknown,analytical_stage,Recordings involving colleagues were allegedly captured by the device.,concealed_camera,CL-199
+EV-189,LCI-0047,3,distribution,,unknown,analytical_stage,Police accounts suggested some material was shared with other accused participants.,private_transfer,CL-200
+EV-190,LCI-0047,4,threat,,unknown,analytical_stage,The recordings were allegedly leveraged for extortion.,messages_and_calls,CL-201
+EV-191,LCI-0047,5,enforcement,,unknown,analytical_stage,Police registered offences and reported investigation or arrests in successive accounts.,police,CL-202
+EV-192,LCI-0048,1,recording,,unknown,analytical_stage,Complainant alleged a private recording was created without permission.,personal_device,CL-203
+EV-193,LCI-0048,2,distribution,,unknown,analytical_stage,Complainant alleged sending of a video to her spouse.,direct_message,CL-204
+EV-194,LCI-0048,3,detection,,unknown,analytical_stage,Formal complaint prompted a police investigation; allegations are contested.,police,CL-205
+EV-195,LCI-0048,4,enforcement,,unknown,analytical_stage,Authorities reported arrest or detention and subsequent custody proceedings.,justice_system,CL-206
+EV-196,LCI-0049,1,acquisition,,unknown,analytical_stage,A man was allegedly lured or abducted after a meeting.,physical_premises,CL-207
+EV-197,LCI-0049,2,recording,,unknown,analytical_stage,Complainant alleged coerced or staged compromising photographs or clips.,personal_camera,CL-208
+EV-198,LCI-0049,3,distribution,,unknown,analytical_stage,Reports described sending footage or photographs to a spouse to support demands.,direct_spouse_contact,CL-209
+EV-199,LCI-0049,4,enforcement,,unknown,analytical_stage,Police reportedly arrested members of the alleged group.,police,CL-210
+EV-200,LCI-0050,1,acquisition,,unknown,analytical_stage,Police alleged false astrologer profiles induced disclosure of private images or videos.,social_profile,CL-211
+EV-201,LCI-0050,2,synthetic_generation,,unknown,analytical_stage,Reports described alleged manipulation of captured or supplied images.,image_manipulation,CL-212
+EV-202,LCI-0050,3,threat,,unknown,analytical_stage,Suspects allegedly used disclosure threats to demand money from contacts.,private_messages,CL-213
+EV-203,LCI-0050,4,enforcement,,unknown,analytical_stage,Cybercrime police reportedly arrested suspects and traced social accounts.,police,CL-214

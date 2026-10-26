@@ -1,0 +1,12 @@
+digraph "LCI-0040" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-159" [label="EV-159 | camera_placement date unknown Police alleged surreptitious cameras were placed in private premises."];
+  "EV-160" [label="EV-160 | recording date unknown Police described recording of private moments of government staff."];
+  "EV-159" -> "EV-160";
+  "EV-161" [label="EV-161 | threat date unknown Suspects allegedly impersonated journalists or RTI officials while making monetary demands."];
+  "EV-160" -> "EV-161";
+  "EV-162" [label="EV-162 | enforcement date unknown Police reported arresting three suspects and seizing storage devices."];
+  "EV-161" -> "EV-162";
+}

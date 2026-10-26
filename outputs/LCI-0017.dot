@@ -1,0 +1,12 @@
+digraph "LCI-0017" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-062" [label="EV-062 | acquisition date unknown Police alleged private media was obtained during a relationship."];
+  "EV-063" [label="EV-063 | distribution date unknown Police reported forwarding material to acquaintances using fake social identities."];
+  "EV-062" -> "EV-063";
+  "EV-064" [label="EV-064 | threat date unknown Police alleged continuing coercion and extortion tied to disclosure."];
+  "EV-063" -> "EV-064";
+  "EV-065" [label="EV-065 | enforcement date unknown Police reported arrest and remand after a November complaint."];
+  "EV-064" -> "EV-065";
+}

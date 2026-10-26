@@ -1,0 +1,10 @@
+digraph "LCI-0013" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-049" [label="EV-049 | recording date unknown Police reported that a phone was found recording inside a hostel washroom; intent and contents were under investigation."];
+  "EV-050" [label="EV-050 | detection date unknown Hostel residents reported finding the phone and informed police."];
+  "EV-049" -> "EV-050";
+  "EV-051" [label="EV-051 | enforcement date unknown Police registered an FIR and seized the device for examination."];
+  "EV-050" -> "EV-051";
+}

@@ -1,0 +1,12 @@
+digraph "LCI-0003" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-014" [label="EV-014 | recording date unknown Police alleged a hidden camera captured women in a clothing shop changing room."];
+  "EV-015" [label="EV-015 | distribution date unknown Investigators said some recordings were shared with peers and later circulated more widely."];
+  "EV-014" -> "EV-015";
+  "EV-016" [label="EV-016 | detection date unknown Public circulation reportedly prompted a complaint and police inspection."];
+  "EV-015" -> "EV-016";
+  "EV-017" [label="EV-017 | enforcement date unknown Police reported an arrest and detention linked to the investigation."];
+  "EV-016" -> "EV-017";
+}

@@ -1,0 +1,99 @@
+{
+  "checkpoints": [
+    {
+      "checkpoint": "A - seven new episodes (LCI-0009 through LCI-0015)",
+      "incidents": 15,
+      "new_incidents": 7,
+      "events": 57,
+      "claims": 57,
+      "sources": 27,
+      "test_count": 11,
+      "preserved_original_rows": {
+        "incidents": true,
+        "sources": true,
+        "events": true,
+        "claims": true,
+        "content_profiles": true,
+        "screening_log": true
+      }
+    },
+    {
+      "checkpoint": "B - fourteen new episodes (LCI-0009 through LCI-0022)",
+      "incidents": 22,
+      "new_incidents": 14,
+      "events": 81,
+      "claims": 81,
+      "sources": 35,
+      "test_count": 11,
+      "preserved_original_rows": {
+        "incidents": true,
+        "sources": true,
+        "events": true,
+        "claims": true,
+        "content_profiles": true,
+        "screening_log": true
+      }
+    },
+    {
+      "checkpoint": "C - final v0.3 post-documentation validation",
+      "incidents": 22,
+      "new_incidents": 14,
+      "events": 81,
+      "claims": 81,
+      "sources": 35,
+      "test_count": 11,
+      "preserved_original_rows": {
+        "incidents": true,
+        "sources": true,
+        "events": true,
+        "claims": true,
+        "content_profiles": true,
+        "screening_log": true
+      }
+    },
+    {
+      "checkpoint": "D - final release recheck",
+      "incidents": 22,
+      "new_incidents": 14,
+      "events": 81,
+      "claims": 81,
+      "sources": 35,
+      "test_count": 11,
+      "preserved_original_rows": {
+        "incidents": true,
+        "sources": true,
+        "events": true,
+        "claims": true,
+        "content_profiles": true,
+        "screening_log": true
+      }
+    }
+  ],
+  "counts": {
+    "incidents": 22,
+    "events": 81,
+    "claims": 81,
+    "sources": 35,
+    "screened": 34
+  },
+  "category_counts": {
+    "LC-01": 2,
+    "LC-03": 12,
+    "LC-02": 8
+  },
+  "circulation_scopes": {
+    "reported_public_or_commercial": 2,
+    "reported_wider_circulation_unspecified": 1,
+    "threat_only": 5,
+    "reported_public_posting": 7,
+    "reported_limited_sharing": 3,
+    "not_established": 4
+  },
+  "limitations": [
+    "Secondary-source reliance",
+    "No primary video inspection",
+    "Independent coding pending",
+    "No nationally representative inference"
+  ],
+  "no_github_push": true
+}

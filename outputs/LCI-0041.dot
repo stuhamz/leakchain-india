@@ -1,0 +1,12 @@
+digraph "LCI-0041" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-163" [label="EV-163 | camera_placement date unknown Police reported concealed cameras in hotel guest rooms."];
+  "EV-164" [label="EV-164 | recording date unknown News accounts reported numerous recordings in a seized phone, but gave conflicting totals."];
+  "EV-163" -> "EV-164";
+  "EV-165" [label="EV-165 | distribution date unknown One newspaper alleged that some recordings were sold online, without a verified buyer list or original records."];
+  "EV-164" -> "EV-165";
+  "EV-166" [label="EV-166 | enforcement date unknown Police raided the hotel and reported multiple arrests."];
+  "EV-165" -> "EV-166";
+}

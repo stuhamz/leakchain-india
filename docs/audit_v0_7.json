@@ -1,0 +1,87 @@
+{
+  "release": "0.7-working",
+  "date": "2026-10-26",
+  "status": "UNPUBLISHED",
+  "baseline": "v0.6 exact snapshot in data/frozen_v0_6",
+  "counts": {
+    "incidents": 38,
+    "registered_sources_total": 119,
+    "case_sources": 117,
+    "context_sources": 2,
+    "events": 154,
+    "claims": 165,
+    "three_source_cases": 34,
+    "missing_sources_to_minimum": 6
+  },
+  "case_sources_below_three": [
+    "LCI-0005",
+    "LCI-0008",
+    "LCI-0016",
+    "LCI-0019"
+  ],
+  "additions": {
+    "incident_ids": [
+      "LCI-0033",
+      "LCI-0034",
+      "LCI-0035",
+      "LCI-0036",
+      "LCI-0037",
+      "LCI-0038"
+    ],
+    "source_ids": [
+      "SB-098",
+      "SB-099",
+      "SB-100",
+      "SB-101",
+      "SB-102",
+      "SB-103",
+      "SB-104",
+      "SB-105",
+      "SB-106",
+      "SB-107",
+      "SB-108",
+      "SB-109",
+      "SB-110",
+      "SB-111",
+      "SB-112",
+      "SB-113",
+      "SB-114",
+      "SB-115",
+      "SB-116",
+      "SB-117",
+      "SB-118",
+      "SB-119"
+    ],
+    "backfilled_incident_ids": [
+      "LCI-0006",
+      "LCI-0011",
+      "LCI-0022"
+    ],
+    "new_category": "LC-07"
+  },
+  "audit_checks": {
+    "ID_continuity": "PASS",
+    "foreign_key_integrity": "PASS",
+    "CSV_validation": "PASS",
+    "preserved_original_source_records": "PASS",
+    "preserved_original_claim_records": "PASS",
+    "old_coding_exceptions_retained": "PASS",
+    "registration_gate_matches_CSV": "PASS",
+    "distinct_safe_URLs": "PASS",
+    "tests": 53,
+    "full_reconstructions": 38,
+    "manifest_hashes": "verified_in_archive",
+    "zip_crc": "verified"
+  },
+  "quality_limits": [
+    "Source references are publisher reports and do not guarantee independent primary evidence.",
+    "LCI-0034 early-2024 complaint chronology contradictory; original FIR required.",
+    "LCI-0033 reported count of media senders differs from actual extortion victims; the total financial figure includes investment cheating.",
+    "IBC24/Bhasha report search-visible but full page blocked automated retrieval.",
+    "Previous deferred LCI sources still unresolved and six new references needed.",
+    "No proven network intrusion or generic commercial media marketplace inferred from these records."
+  ],
+  "source_lineages_independently_certified": 0,
+  "original_media_stored": false,
+  "github_pushed": false
+}

@@ -1,0 +1,12 @@
+digraph "LCI-0005" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-022" [label="EV-022 | recording date unknown Police said recordings were made during a previous personal relationship."];
+  "EV-023" [label="EV-023 | distribution date unknown Police alleged fake social-media profiles were used to post private photos."];
+  "EV-022" -> "EV-023";
+  "EV-024" [label="EV-024 | detection date unknown The person affected reportedly made a police complaint after continued harassment."];
+  "EV-023" -> "EV-024";
+  "EV-025" [label="EV-025 | enforcement date unknown Police reported arrest following their investigation."];
+  "EV-024" -> "EV-025";
+}

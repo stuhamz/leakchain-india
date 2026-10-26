@@ -1,0 +1,5 @@
+incident_id,issue,status,source_id,action_required
+LCI-0003,FPJ describes minor son as camera installer; PTI says adult shop owner installed it and minor shared videos,unresolved_conflict,SB-010;SB-037;SB-038,Acquire FIR / police statement; preserve original event coding as allegation
+LCI-0015,Early reporting says no recovered recorded videos; other accounts refer to checking video footage,unresolved_conflict,SB-026;SB-027;SB-044,Do not claim clips were made or disseminated without forensic or police confirmation
+LCI-0023,Judgment uses word hacked; testimony specifies password found in notebook and accessed locally,mechanism_clarified,SB-047,"Keep A5 unauthorised phone access, not remote exploitation or platform breach"
+LCI-0020,Initial police report alleges dating-app extortion; later magistrate review rejects remand and holds arrest unlawful in one FIR,procedural_correction_made,SB-070,Seek authenticated magistrate order; distinguish remand/arrest review from guilt or innocence.

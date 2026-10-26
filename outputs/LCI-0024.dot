@@ -1,0 +1,12 @@
+digraph "LCI-0024" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-086" [label="EV-086 | acquisition date unknown According to police, a complainant reported unauthorised access to her Instagram account."];
+  "EV-087" [label="EV-087 | publication date unknown According to police, an accused produced altered images and fake profiles to pressure women."];
+  "EV-086" -> "EV-087";
+  "EV-088" [label="EV-088 | threat date unknown The complainant reported threats to publish altered intimate images unless demands were met."];
+  "EV-087" -> "EV-088";
+  "EV-089" [label="EV-089 | enforcement 2020-12-29 Delhi police arrested a suspect after account tracing and investigation."];
+  "EV-088" -> "EV-089";
+}

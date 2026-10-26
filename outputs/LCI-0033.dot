@@ -1,0 +1,14 @@
+digraph "LCI-0033" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-126" [label="EV-126 | acquisition date unknown Investigators alleged a fake female identity induced people to provide private media."];
+  "EV-127" [label="EV-127 | threat date unknown Police said private media was subsequently used to demand money under threats of exposure."];
+  "EV-126" -> "EV-127";
+  "EV-128" [label="EV-128 | detection date unknown Police estimated online conversations and recipients; quantity units are distinct."];
+  "EV-127" -> "EV-128";
+  "EV-129" [label="EV-129 | enforcement 2026-10-19 Saidabad police reported suspect arrest and seizure of devices."];
+  "EV-128" -> "EV-129";
+  "EV-130" [label="EV-130 | evidence_collection date unknown Police reported a total claimed financial amount including an investment-cheating component."];
+  "EV-129" -> "EV-130";
+}

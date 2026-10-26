@@ -1,0 +1,14 @@
+digraph "LCI-0038" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-150" [label="EV-150 | acquisition date unknown Police described original social photos used as inputs after online acquaintance."];
+  "EV-151" [label="EV-151 | synthetic_generation date unknown Police said the images were manipulated into fake intimate content using AI."];
+  "EV-150" -> "EV-151";
+  "EV-152" [label="EV-152 | threat date unknown Suspects allegedly demanded money to prevent posting of manipulated pictures."];
+  "EV-151" -> "EV-152";
+  "EV-153" [label="EV-153 | distribution date unknown One manipulated image was reportedly sent to complainant husband."];
+  "EV-152" -> "EV-153";
+  "EV-154" [label="EV-154 | enforcement 2026-05-15 Police recorded a complaint and reportedly searched for two alleged suspects."];
+  "EV-153" -> "EV-154";
+}

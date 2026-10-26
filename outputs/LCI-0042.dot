@@ -1,0 +1,12 @@
+digraph "LCI-0042" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-167" [label="EV-167 | acquisition date unknown A device or stored content reportedly became the subject of a theft-related extortion complaint."];
+  "EV-168" [label="EV-168 | evidence_collection date unknown Investigators reported recovering numerous private recordings."];
+  "EV-167" -> "EV-168";
+  "EV-169" [label="EV-169 | detection date unknown Police alleged some recordings documented abuse, prompting a separate investigation."];
+  "EV-168" -> "EV-169";
+  "EV-170" [label="EV-170 | enforcement date unknown Police reported an arrest in the subsequent case."];
+  "EV-169" -> "EV-170";
+}

@@ -1,0 +1,904 @@
+[
+  {
+    "incident_id": "LCI-0001",
+    "label": "Rajkot hospital surveillance footage case",
+    "state": "Gujarat",
+    "category": "LC-01",
+    "modality": "video",
+    "scope": "reported_public_or_commercial",
+    "acquisition_code": "A1",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "distribution",
+      "enforcement",
+      "evidence_collection",
+      "prosecution"
+    ],
+    "issues_count": 0,
+    "text": "rajkot hospital surveillance footage case gujarat lc-01 a1 reported_in_journalism commercial_distribution_alleged video reported_public_or_commercial investigators attributed unauthorised access to the hospital cctv system to external actors. investigators described circulation and offers to sell patient recordings via multiple online service roles. the matter came to police attention and an fir was registered, according to reporting. police reported locating footage on public video-hosting accounts during the investigation. police announced arrests of initial suspects. an initial chargesheet was filed, according to the later investigative report. a supplementary chargesheet was filed, according to the later investigative report."
+  },
+  {
+    "incident_id": "LCI-0002",
+    "label": "Thiruvananthapuram state cinema surveillance footage episode",
+    "state": "Kerala",
+    "category": "LC-01",
+    "modality": "video",
+    "scope": "reported_public_or_commercial",
+    "acquisition_code": "A0",
+    "sources": 5,
+    "event_types": [
+      "distribution",
+      "enforcement",
+      "mitigation",
+      "oversight",
+      "publication",
+      "recording"
+    ],
+    "issues_count": 0,
+    "text": "thiruvananthapuram state cinema surveillance footage episode kerala lc-01 a0 journalist_original_observation commercial_distribution_documented video reported_public_or_commercial the source material was described as footage from the surveillance systems of three state-run cinemas. investigative reporting documented circulation and commercial offers involving theatre footage. an original investigation into the circulation was published. theatre management described changes to surveillance access and passwords. a cybercrime fir was registered following a complaint by the theatre operator. the human rights commission directed greater oversight of the ongoing investigation."
+  },
+  {
+    "incident_id": "LCI-0003",
+    "label": "Shahdol retail changing-room covert recording and reported sharing",
+    "state": "Madhya Pradesh",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "reported_wider_circulation_unspecified",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "detection",
+      "distribution",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 1,
+    "text": "shahdol retail changing-room covert recording and reported sharing madhya pradesh lc-03 a3 police_reported_wider_sharing unauthorised_recording_and_sharing video reported_wider_circulation_unspecified police alleged a hidden camera captured women in a clothing shop changing room. investigators said some recordings were shared with peers and later circulated more widely. public circulation reportedly prompted a complaint and police inspection. police reported an arrest and detention linked to the investigation."
+  },
+  {
+    "incident_id": "LCI-0004",
+    "label": "Noida hotel-room covert recording and threatened disclosure case",
+    "state": "Uttar Pradesh",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "enforcement",
+      "mitigation",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "noida hotel-room covert recording and threatened disclosure case uttar pradesh lc-03 a3 threatened_distribution_not_confirmed coercion_and_extortion video threat_only police said cameras were covertly placed to record couples in hotel rooms. investigators described threats to expose the recordings during alleged extortion. police announced arrests and filing of a case following investigation. reporting indicated the hotel platform was conducting an internal inquiry."
+  },
+  {
+    "incident_id": "LCI-0005",
+    "label": "Bengaluru former-colleague intimate-media coercion and impersonation",
+    "state": "Karnataka",
+    "category": "LC-02",
+    "modality": "photo_and_video_reported",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "detection",
+      "distribution",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 1,
+    "text": "bengaluru former-colleague intimate-media coercion and impersonation karnataka lc-02 a4 police_reported_private_photo_posting coercion_and_impersonation photo_and_video_reported reported_public_posting police said recordings were made during a previous personal relationship. police alleged fake social-media profiles were used to post private photos. the person affected reportedly made a police complaint after continued harassment. police reported arrest following their investigation."
+  },
+  {
+    "incident_id": "LCI-0006",
+    "label": "Delhi online relationship private-photo disclosure and impersonation",
+    "state": "Delhi",
+    "category": "LC-02",
+    "modality": "photo",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "distribution",
+      "enforcement"
+    ],
+    "issues_count": 0,
+    "text": "delhi online relationship private-photo disclosure and impersonation delhi lc-02 a4 police_reported_online_private_photo_posting disclosure_and_impersonation photo reported_public_posting police reported that private photographs were initially shared during an online relationship. police said private photographs were circulated using online impersonation profiles. affected student reportedly complained to the cyber police. police announced an arrest and recovery of electronic devices."
+  },
+  {
+    "incident_id": "LCI-0007",
+    "label": "Prayagraj event bathing-area covert recording and online sharing",
+    "state": "Uttar Pradesh",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "distribution",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 0,
+    "text": "prayagraj event bathing-area covert recording and online sharing uttar pradesh lc-03 a3 police_reported_online_upload attention_or_monetisation_alleged video reported_public_posting police alleged unauthorised filming of women while bathing or changing in a religious event environment. police alleged uploading recorded material to a video-sharing platform. police reported a cybercrime case and an arrest."
+  },
+  {
+    "incident_id": "LCI-0008",
+    "label": "Mumbai former-partner private-photo online disclosure case",
+    "state": "Maharashtra",
+    "category": "LC-02",
+    "modality": "photo",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "distribution",
+      "enforcement"
+    ],
+    "issues_count": 1,
+    "text": "mumbai former-partner private-photo online disclosure case maharashtra lc-02 a4 police_reported_online_posting post_relationship_harassment photo reported_public_posting police described a prior relationship and alleged possession of private photographs. police alleged photos were used on messaging status and impersonation pages online. the affected person reportedly became aware of the postings and was assisted with a police complaint. police reported arrest following their investigation."
+  },
+  {
+    "incident_id": "LCI-0009",
+    "label": "Jabalpur university hostel bathroom recording and limited sharing",
+    "state": "Madhya Pradesh",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "distribution",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 0,
+    "text": "jabalpur university hostel bathroom recording and limited sharing madhya pradesh lc-03 a3 police_reported_private_transfer covert_recording_and_limited_transfer video reported_limited_sharing police said a student was accused of recording another student in a private hostel bathroom. police alleged the recording was sent to one person outside the hostel, not posted publicly. police detained the student and reported registering a case."
+  },
+  {
+    "incident_id": "LCI-0010",
+    "label": "Diu hotel concealed-camera recording and alleged extortion",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "diu hotel concealed-camera recording and alleged extortion dadra and nagar haveli and daman and diu lc-03 a3 threatened_distribution_not_confirmed covert_recording_and_extortion video threat_only investigators said concealed cameras recorded private encounters at a hotel. investigators alleged demands for money accompanied threats involving the recordings. police reported three arrests after investigating the hotel operation."
+  },
+  {
+    "incident_id": "LCI-0011",
+    "label": "Azamgarh hostel covert bathroom recording investigation",
+    "state": "Uttar Pradesh",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "azamgarh hostel covert bathroom recording investigation uttar pradesh lc-03 a3 threatened_distribution_not_confirmed covert_recording_and_threat video threat_only police reported concealed recording of persons in a hostel bathing area. police described alleged threats to release material if complaints were made. police reported arrest and transfer of devices for forensic examination."
+  },
+  {
+    "incident_id": "LCI-0012",
+    "label": "Bhopal MRI-centre changing-room recording",
+    "state": "Madhya Pradesh",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "not_established",
+    "acquisition_code": "A3",
+    "sources": 4,
+    "event_types": [
+      "detection",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 0,
+    "text": "bhopal mri-centre changing-room recording madhya pradesh lc-03 a3 no_onward_distribution_documented unauthorised_private_recording video not_established police reported discovery of a concealed recording phone in an mri-centre changing room. a visitor discovered the device and reported it to authorities. police detained a staff member and seized the device for forensic examination."
+  },
+  {
+    "incident_id": "LCI-0013",
+    "label": "Gorakhpur hostel washroom phone-recording complaint",
+    "state": "Uttar Pradesh",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "not_established",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "detection",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 0,
+    "text": "gorakhpur hostel washroom phone-recording complaint uttar pradesh lc-03 a3 circulation_alleged_but_not_confirmed alleged_private_recording video not_established police reported that a phone was found recording inside a hostel washroom; intent and contents were under investigation. hostel residents reported finding the phone and informed police. police registered an fir and seized the device for examination."
+  },
+  {
+    "incident_id": "LCI-0014",
+    "label": "Hosur women hostel concealed-camera placement case",
+    "state": "Tamil Nadu",
+    "category": "LC-03",
+    "modality": "potential_video",
+    "scope": "not_established",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "camera_placement",
+      "detection",
+      "enforcement"
+    ],
+    "issues_count": 0,
+    "text": "hosur women hostel concealed-camera placement case tamil nadu lc-03 a3 no_onward_distribution_documented concealed_camera_placement potential_video not_established police alleged cameras were placed in hostel bathrooms; whether recordings were retained or shared is not established. a camera-placement complaint prompted hostel protests and police inquiry. police reported arrest of two persons in connection with the case."
+  },
+  {
+    "incident_id": "LCI-0015",
+    "label": "Ameenpur womens hostel camera concealed in charger",
+    "state": "Telangana",
+    "category": "LC-03",
+    "modality": "potential_video",
+    "scope": "not_established",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "camera_placement",
+      "detection",
+      "enforcement"
+    ],
+    "issues_count": 1,
+    "text": "ameenpur womens hostel camera concealed in charger telangana lc-03 a3 no_distribution_documented concealed_camera_placement potential_video not_established residents discovered cameras concealed in charger-like devices; whether private videos were captured is unresolved. residents notified police and devices were seized. police reported arrest and ongoing examination of storage devices."
+  },
+  {
+    "incident_id": "LCI-0016",
+    "label": "Bhubaneswar ex-partner private-media disclosure via fake profile",
+    "state": "Odisha",
+    "category": "LC-02",
+    "modality": "photo_and_video_reported",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "threat"
+    ],
+    "issues_count": 2,
+    "text": "bhubaneswar ex-partner private-media disclosure via fake profile odisha lc-02 a4 police_reported_social_media_posting coercion_and_disclosure photo_and_video_reported reported_public_posting police described possession of private images and videos from an earlier relationship. the person was alleged to have threatened to post the material to pressure reconciliation. police said images or videos were subsequently posted using an impersonating profile. police reported arrest and mobile-phone seizure."
+  },
+  {
+    "incident_id": "LCI-0017",
+    "label": "Goa December former-partner private-media transmission case",
+    "state": "Goa",
+    "category": "LC-02",
+    "modality": "photo_and_video_reported",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "goa december former-partner private-media transmission case goa lc-02 a4 police_reported_sharing_to_acquaintances coercion_extortion_and_disclosure photo_and_video_reported reported_limited_sharing police alleged private media was obtained during a relationship. police reported forwarding material to acquaintances using fake social identities. police alleged continuing coercion and extortion tied to disclosure. police reported arrest and remand after a november complaint."
+  },
+  {
+    "incident_id": "LCI-0018",
+    "label": "Wayanad former-partner private-photo publication case",
+    "state": "Kerala",
+    "category": "LC-02",
+    "modality": "photo",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement"
+    ],
+    "issues_count": 0,
+    "text": "wayanad former-partner private-photo publication case kerala lc-02 a4 police_reported_online_posting post_relationship_image_abuse photo reported_public_posting reporting describes earlier relationship during which the person had possession of private photographs. police alleged the private photos were published online following the relationship breakdown. cyber police travelled to another state and reported arrest."
+  },
+  {
+    "incident_id": "LCI-0019",
+    "label": "Mumbai private-image online posting and extortion complaint",
+    "state": "Maharashtra",
+    "category": "LC-02",
+    "modality": "photo",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A0",
+    "sources": 3,
+    "event_types": [
+      "distribution",
+      "enforcement",
+      "threat"
+    ],
+    "issues_count": 2,
+    "text": "mumbai private-image online posting and extortion complaint maharashtra lc-02 a0 police_reported_social_media_posting online_image_coercion_and_extortion photo reported_public_posting police described online posting of private images through a fake account; original acquisition not identified. an alleged monetary demand was made in exchange for disabling the account. police reported registering case and searching for suspect."
+  },
+  {
+    "incident_id": "LCI-0020",
+    "label": "Aligarh dating-app entrapment and recorded-video blackmail allegations",
+    "state": "Uttar Pradesh",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "enforcement",
+      "evidence_collection",
+      "oversight",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 2,
+    "text": "aligarh dating-app entrapment and recorded-video blackmail allegations uttar pradesh lc-03 a3 threatened_distribution_not_confirmed interpersonal_video_blackmail video threat_only police alleged victims were recorded after being lured through online contact to a private meeting. complainants alleged recorded material was used for blackmail. police said devices contained further recordings; ownership and conclusions remain allegations. police reported two firs and one arrest in the investigation. local reporting states magistrate denied custodial remand, described the arrest as unlawful in one registered complaint, and released the accused on bond."
+  },
+  {
+    "incident_id": "LCI-0021",
+    "label": "Delhi Shahdara dating-video blackmail operation July 2025",
+    "state": "Delhi",
+    "category": "LC-03",
+    "modality": "video",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "delhi shahdara dating-video blackmail operation july 2025 delhi lc-03 a3 threatened_distribution_not_confirmed video_sextortion video threat_only police alleged an intimate video call was covertly recorded during a dating-app interaction. the recording was sent to complainant and threatened to be circulated more widely; only this private transfer established by report. police described complaint, investigation and arrests of four persons."
+  },
+  {
+    "incident_id": "LCI-0022",
+    "label": "Goa September former-partner private-photo disclosure through fake accounts",
+    "state": "Goa",
+    "category": "LC-02",
+    "modality": "photo",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement"
+    ],
+    "issues_count": 0,
+    "text": "goa september former-partner private-photo disclosure through fake accounts goa lc-02 a4 police_reported_sharing_to_acquaintances post_relationship_image_abuse photo reported_limited_sharing police described private images being obtained during a relationship. police reported that private images were shared with acquaintances through fake profiles. police reported arrest and custodial remand following cyber investigation."
+  },
+  {
+    "incident_id": "LCI-0023",
+    "label": "West Bengal court case involving non-consensual access to a former partner phone and intimate-media publication",
+    "state": "West Bengal",
+    "category": "LC-04",
+    "modality": "image_and_video",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A5",
+    "sources": 4,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "west bengal court case involving non-consensual access to a former partner phone and intimate-media publication west bengal lc-04 a5 judicially_confirmed_online_publication nonconsensual_disclosure image_and_video reported_public_posting the complainant described access to her phone after the accused obtained a password without permission. the judgment recounts pressure and threats to publish private media after a relationship dispute. the court convicted the accused of non-consensual online publication of private recordings. trial court entered a criminal conviction."
+  },
+  {
+    "incident_id": "LCI-0024",
+    "label": "Delhi and Noida investigation of morphed intimate images and alleged Instagram access compromise",
+    "state": "Delhi",
+    "category": "LC-05",
+    "modality": "manipulated_images",
+    "scope": "threat_only",
+    "acquisition_code": "A6",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "enforcement",
+      "publication",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "delhi and noida investigation of morphed intimate images and alleged instagram access compromise delhi lc-05 a6 threatened_distribution_not_confirmed image_manipulation_coercion manipulated_images threat_only according to police, a complainant reported unauthorised access to her instagram account. according to police, an accused produced altered images and fake profiles to pressure women. the complainant reported threats to publish altered intimate images unless demands were met. delhi police arrested a suspect after account tracing and investigation."
+  },
+  {
+    "incident_id": "LCI-0025",
+    "label": "Delhi and Noida impersonation case involving private-media solicitation, disclosure and forensic recovery",
+    "state": "Delhi",
+    "category": "LC-02",
+    "modality": "image_and_video",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A4",
+    "sources": 4,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "evidence_collection",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "delhi and noida impersonation case involving private-media solicitation, disclosure and forensic recovery delhi lc-02 a4 police_reported_social_media_posting impersonation_collection_blackmail image_and_video reported_public_posting police reported that impersonation was used to solicit private images under a false work opportunity. police described later threats and demands for additional private media. reporting says private images were posted through an impersonating profile and shared with contacts. police said forensic analysis recovered deleted images from seized devices. delhi police announced an arrest following investigation."
+  },
+  {
+    "incident_id": "LCI-0026",
+    "label": "Assam AI-impersonation and alleged paid synthetic-imagery operation",
+    "state": "Assam",
+    "category": "LC-05",
+    "modality": "synthetic_image_and_video",
+    "scope": "reported_public_or_commercial",
+    "acquisition_code": "A6",
+    "sources": 4,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "publication"
+    ],
+    "issues_count": 0,
+    "text": "assam ai-impersonation and alleged paid synthetic-imagery operation assam lc-05 a6 police_reported_public_posting_and_subscription_monetisation synthetic_identity_impersonation_publication_subscription synthetic_image_and_video reported_public_or_commercial police attributed creation of synthetic representations to a former acquaintance using an adult woman’s likeness. police reported impersonating social-media profiles were used to post fabricated content. investigators described a paid subscription arrangement for access to fabricated material. police reportedly arrested a person in connection with the impersonation and distribution allegations."
+  },
+  {
+    "incident_id": "LCI-0027",
+    "label": "Delhi AI-manipulated intimate-image impersonation and alleged posting",
+    "state": "Delhi",
+    "category": "LC-05",
+    "modality": "synthetic_manipulated_images",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A6",
+    "sources": 4,
+    "event_types": [
+      "acquisition",
+      "enforcement",
+      "evidence_collection",
+      "publication"
+    ],
+    "issues_count": 0,
+    "text": "delhi ai-manipulated intimate-image impersonation and alleged posting delhi lc-05 a6 police_reported_social_media_posting morphed_images_impersonation_harassment synthetic_manipulated_images reported_public_posting police reported that publicly available photos were manipulated with ai tools to create synthetic intimate depictions. police described repeated creation of impersonating social-media profiles and alleged posting to those accounts. police said digital traces associated with the online accounts were used during investigation. police reportedly arrested one individual and seized a phone for examination."
+  },
+  {
+    "incident_id": "LCI-0028",
+    "label": "Bengaluru relationship-based private-video extortion complaint",
+    "state": "Karnataka",
+    "category": "LC-02",
+    "modality": "private_image_and_video",
+    "scope": "threat_only",
+    "acquisition_code": "A4",
+    "sources": 4,
+    "event_types": [
+      "detection",
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "bengaluru relationship-based private-video extortion complaint karnataka lc-02 a4 threatened_publication_only relationship_coercion_threat_extortion private_image_and_video threat_only a couple reportedly recorded intimate videos during their earlier relationship. police said one person threatened to publish private footage to obtain money and property. the alleged victim approached police and described a prolonged pattern of demands. bengaluru police announced an arrest and stated some alleged proceeds were recovered."
+  },
+  {
+    "incident_id": "LCI-0029",
+    "label": "Delhi job-recruitment impersonation and AI-manipulated image extortion complaint",
+    "state": "Delhi",
+    "category": "LC-05",
+    "modality": "synthetic_manipulated_images",
+    "scope": "threat_only",
+    "acquisition_code": "A6",
+    "sources": 4,
+    "event_types": [
+      "acquisition",
+      "enforcement",
+      "synthetic_generation",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "delhi job-recruitment impersonation and ai-manipulated image extortion complaint delhi lc-05 a6 reported_direct_to_target_threat_only job_impersonation_capture_synthetic_image_extortion synthetic_manipulated_images threat_only police allege images were captured during fake job-verification calls. police allege captured pictures were manipulated to create explicit images. police reported demands for money and threats to circulate manipulated images. police reported tracing and arresting a suspect in the delhi investigation."
+  },
+  {
+    "incident_id": "LCI-0030",
+    "label": "Bhubaneswar relationship-based manipulated-image extortion and alleged online posting",
+    "state": "Odisha",
+    "category": "LC-05",
+    "modality": "synthetic_manipulated_photos",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A6",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "distribution",
+      "enforcement",
+      "synthetic_generation"
+    ],
+    "issues_count": 1,
+    "text": "bhubaneswar relationship-based manipulated-image extortion and alleged online posting odisha lc-05 a6 police_reported_public_posting relationship_based_image_morphing_and_impersonation synthetic_manipulated_photos reported_public_posting reports describe access to non-explicit photographs arising from a former relationship. police alleged the original images were edited into explicit-looking versions. police reported posting altered images via impersonating social accounts. police said a complaint was lodged in bhubaneswar on 10 april. police reported an april arrest and stated a court remanded the accused."
+  },
+  {
+    "incident_id": "LCI-0031",
+    "label": "Chikkamagaluru alleged synthetic-video creation and family-directed blackmail",
+    "state": "Karnataka",
+    "category": "LC-05",
+    "modality": "synthetic_video",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A6",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "synthetic_generation",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "chikkamagaluru alleged synthetic-video creation and family-directed blackmail karnataka lc-05 a6 reported_limited_family_sharing_and_threat_to_post synthetic_video_family_forwarding_with_threatened_wider_posting synthetic_video reported_limited_sharing local reporting says an ordinary photograph was obtained as input to manipulated media. police allege an ai tool was used to construct an explicit-looking video. police said the fabricated video was sent directly to a family member. police reported a demand for money with a threat of wider online circulation. regional police reported arrest of two suspects following a family complaint."
+  },
+  {
+    "incident_id": "LCI-0032",
+    "label": "Kendrapada relationship-based private-image circulation involving alleged accomplice",
+    "state": "Odisha",
+    "category": "LC-02",
+    "modality": "private_photo_and_video_reported",
+    "scope": "reported_wider_circulation_unspecified",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "distribution",
+      "enforcement"
+    ],
+    "issues_count": 1,
+    "text": "kendrapada relationship-based private-image circulation involving alleged accomplice odisha lc-02 a4 police_reported_social_media_and_messaging_sharing relationship_breakdown_two_actor_distribution_alleged private_photo_and_video_reported reported_wider_circulation_unspecified police alleged that intimate media was collected during a past relationship. police alleged media was shared with others, with an accomplice also implicated. the complainant reportedly learnt of circulating private imagery and brought a police complaint. police reported at least one suspect arrested and remanded; other reports describe two arrests."
+  },
+  {
+    "incident_id": "LCI-0033",
+    "label": "Hyderabad impersonated-female social profiles used for private-image solicitation and alleged extortion",
+    "state": "Telangana",
+    "category": "LC-07",
+    "modality": "private_photo_and_video_reported",
+    "scope": "threat_only",
+    "acquisition_code": "A7",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "enforcement",
+      "evidence_collection",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "hyderabad impersonated-female social profiles used for private-image solicitation and alleged extortion telangana lc-07 a7 threatened_disclosure_with_individual_target_contacts identity_impersonation_solicitation_and_coercive_demand private_photo_and_video_reported threat_only investigators alleged a fake female identity induced people to provide private media. police said private media was subsequently used to demand money under threats of exposure. police estimated online conversations and recipients; quantity units are distinct. saidabad police reported suspect arrest and seizure of devices. police reported a total claimed financial amount including an investment-cheating component."
+  },
+  {
+    "incident_id": "LCI-0034",
+    "label": "Bhadohi alleged extraction of personal videos from phone entrusted for repair and subsequent circulation",
+    "state": "Uttar Pradesh",
+    "category": "LC-04",
+    "modality": "private_video_reported",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A5",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "distribution",
+      "enforcement",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "bhadohi alleged extraction of personal videos from phone entrusted for repair and subsequent circulation uttar pradesh lc-04 a5 reported_public_circulation_on_multiple_occasions alleged_repair_device_file_copying_and_recirculation private_video_reported reported_public_posting complainant alleged private clips were copied from a phone delivered to a repair shop. complaint describes repeated blackmail and coercion using extracted content. police cited public circulation of at least one private video on more than one occasion. reports describe an early complaint but contain an inconsistent january 2024 timing. police reported filing allegations against six individuals in october 2026."
+  },
+  {
+    "incident_id": "LCI-0035",
+    "label": "Delhi sustained intimate-media extortion via spoofed social accounts and fabricated legal threats",
+    "state": "Delhi",
+    "category": "LC-02",
+    "modality": "private_photo_and_video_reported",
+    "scope": "reported_wider_circulation_unspecified",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "evidence_collection",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "delhi sustained intimate-media extortion via spoofed social accounts and fabricated legal threats delhi lc-02 a4 fake_accounts_used_to_harass_with_private_images_no_public_reach_verified online_acquaintance_held_media_and_fabricated_social_identity_coercion private_photo_and_video_reported reported_wider_circulation_unspecified complainant said an online acquaintance obtained photos and videos through emotional pressure. police described multiple impersonated social-media accounts used for online harassment. reports describe money demands, fabricated legal notices and threats to victim or family. police attributed accounts to a common telephone number and reported recovered devices. delhi police reported arrest following investigation in late may."
+  },
+  {
+    "incident_id": "LCI-0036",
+    "label": "Ahmedabad synthetic intimate-image harassment through fake social profiles",
+    "state": "Gujarat",
+    "category": "LC-05",
+    "modality": "synthetic_image_and_video",
+    "scope": "reported_public_posting",
+    "acquisition_code": "A6",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "enforcement",
+      "publication",
+      "synthetic_generation"
+    ],
+    "issues_count": 1,
+    "text": "ahmedabad synthetic intimate-image harassment through fake social profiles gujarat lc-05 a6 police_reported_public_posting_of_synthetic_content synthetic_harassment_fake_profiles synthetic_image_and_video reported_public_posting police alleged actors downloaded ordinary public profile photographs as inputs. police reported use of online image manipulation to fabricate intimate content. police described repeated postings through fake accounts and channels. complaint reportedly filed with ahmedabad cyber police in april 2026. ahmedabad police announced an arrest after tracing a suspect to delhi."
+  },
+  {
+    "incident_id": "LCI-0037",
+    "label": "Hyderabad relationship-linked image disclosure to prospective in-laws after alleged contact-list access",
+    "state": "Telangana",
+    "category": "LC-02",
+    "modality": "private_photo",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "distribution",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "hyderabad relationship-linked image disclosure to prospective in-laws after alleged contact-list access telangana lc-02 a4 reported_limited_family_sharing former_partner_family_directed_disclosure private_photo reported_limited_sharing complainant said a former partner persuaded her to provide an otp and obtained contacts. complainant described harassment of contacts and threats of image exposure. photographs were allegedly sent to prospective in-laws. complainant contacted medipally police following disputed disclosure."
+  },
+  {
+    "incident_id": "LCI-0038",
+    "label": "Bhadohi AI-morphed picture extortion through cybercafe-linked online acquaintance",
+    "state": "Uttar Pradesh",
+    "category": "LC-05",
+    "modality": "synthetic_manipulated_images",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A6",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "synthetic_generation",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "bhadohi ai-morphed picture extortion through cybercafe-linked online acquaintance uttar pradesh lc-05 a6 reported_limited_sharing_to_husband_and_wider_post_threat synthetic_image_extortion_with_family_targeted_forwarding synthetic_manipulated_images reported_limited_sharing police described original social photos used as inputs after online acquaintance. police said the images were manipulated into fake intimate content using ai. suspects allegedly demanded money to prevent posting of manipulated pictures. one manipulated image was reportedly sent to complainant husband. police recorded a complaint and reportedly searched for two alleged suspects."
+  },
+  {
+    "incident_id": "LCI-0039",
+    "label": "Gwalior guesthouse hidden-camera blackmail investigation",
+    "state": "Madhya Pradesh",
+    "category": "LC-03",
+    "modality": "covert_original_video_alleged",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "camera_placement",
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "gwalior guesthouse hidden-camera blackmail investigation madhya pradesh lc-03 a3 reported_threat_to_disclose_private_recording hotel_camera_capture_followed_by_messaging_extortion covert_original_video_alleged threat_only investigators alleged a concealed camera was installed in a hotel room. police reports described unauthorised video capture of guests. a couple allegedly received demands under threat of publishing the recording. police reported arrests and device seizures after a complaint."
+  },
+  {
+    "incident_id": "LCI-0040",
+    "label": "Belagavi hidden-camera extortion by alleged fake journalists",
+    "state": "Karnataka",
+    "category": "LC-03",
+    "modality": "covert_private_video_alleged",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "camera_placement",
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "belagavi hidden-camera extortion by alleged fake journalists karnataka lc-03 a3 reported_threat_to_expose_footage private_room_camera_and_impersonated_press_identity covert_private_video_alleged threat_only police alleged surreptitious cameras were placed in private premises. police described recording of private moments of government staff. suspects allegedly impersonated journalists or rti officials while making monetary demands. police reported arresting three suspects and seizing storage devices."
+  },
+  {
+    "incident_id": "LCI-0041",
+    "label": "Kanpur hotel hidden-camera recording and alleged commercial circulation",
+    "state": "Uttar Pradesh",
+    "category": "LC-03",
+    "modality": "covert_hotel_room_recordings_alleged",
+    "scope": "reported_public_or_commercial",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "camera_placement",
+      "distribution",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 1,
+    "text": "kanpur hotel hidden-camera recording and alleged commercial circulation uttar pradesh lc-03 a3 reported_sale_of_captured_videos_by_police hotel_camera_collection_and_alleged_commercial_distribution covert_hotel_room_recordings_alleged reported_public_or_commercial police reported concealed cameras in hotel guest rooms. news accounts reported numerous recordings in a seized phone, but gave conflicting totals. one newspaper alleged that some recordings were sold online, without a verified buyer list or original records. police raided the hotel and reported multiple arrests."
+  },
+  {
+    "incident_id": "LCI-0042",
+    "label": "Nashik extortion inquiry uncovering concealed recordings",
+    "state": "Maharashtra",
+    "category": "LC-03",
+    "modality": "recorded_private_video_reported",
+    "scope": "not_established",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "detection",
+      "enforcement",
+      "evidence_collection"
+    ],
+    "issues_count": 0,
+    "text": "nashik extortion inquiry uncovering concealed recordings maharashtra lc-03 a3 exposure_not_established seizure_uncovered_private_videos_after_extortion_complaint recorded_private_video_reported not_established a device or stored content reportedly became the subject of a theft-related extortion complaint. investigators reported recovering numerous private recordings. police alleged some recordings documented abuse, prompting a separate investigation. police reported an arrest in the subsequent case."
+  },
+  {
+    "incident_id": "LCI-0043",
+    "label": "Faridabad private-image extortion and trap arrest",
+    "state": "Haryana",
+    "category": "LC-02",
+    "modality": "private_images_or_video_alleged",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "detection",
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "faridabad private-image extortion and trap arrest haryana lc-02 a3 threatened_publication_of_private_images private_image_threats_and_police_cash_trap private_images_or_video_alleged threat_only complainant alleged intimate content was acquired during a private encounter. the content was allegedly used to demand money with threats of exposure. a complaint led investigators to arrange a controlled meeting. police reported detaining a suspect while receiving money in the trap."
+  },
+  {
+    "incident_id": "LCI-0044",
+    "label": "Delhi impersonated video-platform employee in video-call sextortion case",
+    "state": "Delhi",
+    "category": "LC-07",
+    "modality": "video_call_capture_alleged",
+    "scope": "threat_only",
+    "acquisition_code": "A7",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "delhi impersonated video-platform employee in video-call sextortion case delhi lc-07 a7 threatened_publication_or_suspension video_platform_employee_impersonation_and_coercive_capture video_call_capture_alleged threat_only police alleged a suspect used a false platform-employee identity to induce video calls. private video-call interactions were allegedly captured without valid consent. reported threats included public release or loss of platform access. police reported arresting the alleged operator after tracing communications."
+  },
+  {
+    "incident_id": "LCI-0045",
+    "label": "Bengaluru child welfare committee member accused of private-video blackmail",
+    "state": "Karnataka",
+    "category": "LC-02",
+    "modality": "private_images_and_videos_reported",
+    "scope": "threat_only",
+    "acquisition_code": "A4",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "enforcement",
+      "evidence_collection",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "bengaluru child welfare committee member accused of private-video blackmail karnataka lc-02 a4 threatened_publication_no_public_release_established relationship_based_content_and_false_online_identities private_images_and_videos_reported threat_only complaint alleged a former acquaintance held private recordings or photographs. complainant reported demands for sexual favours under exposure threats. investigators reportedly seized storage media containing additional content. police reported arresting the suspect and examining other accusations."
+  },
+  {
+    "incident_id": "LCI-0046",
+    "label": "Bengaluru Snapchat video-call capture and gold extortion allegation",
+    "state": "Karnataka",
+    "category": "LC-07",
+    "modality": "private_video_call_screenshots_reported",
+    "scope": "threat_only",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 0,
+    "text": "bengaluru snapchat video-call capture and gold extortion allegation karnataka lc-07 a3 threatened_exposure_to_family online_friendship_covert_screenshot_and_financial_coercion private_video_call_screenshots_reported threat_only an online friendship reportedly preceded private video calls. complainant alleged screenshots from private video calls were retained. alleged operators demanded valuables and threatened sharing with relatives. police reported arrests and efforts to recover stolen assets."
+  },
+  {
+    "incident_id": "LCI-0047",
+    "label": "Rajkot clinic spy-camera and alleged journalist extortion",
+    "state": "Gujarat",
+    "category": "LC-03",
+    "modality": "covert_clinic_video_reported",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "camera_placement",
+      "distribution",
+      "enforcement",
+      "recording",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "rajkot clinic spy-camera and alleged journalist extortion gujarat lc-03 a3 reported_limited_sharing_among_suspects clinic_hidden_camera_copied_recordings_and_media_impersonation covert_clinic_video_reported reported_limited_sharing police alleged a hidden camera was placed in a clinic. recordings involving colleagues were allegedly captured by the device. police accounts suggested some material was shared with other accused participants. the recordings were allegedly leveraged for extortion. police registered offences and reported investigation or arrests in successive accounts."
+  },
+  {
+    "incident_id": "LCI-0048",
+    "label": "Hyderabad police trainee private-video allegation and contested investigation",
+    "state": "Telangana",
+    "category": "LC-03",
+    "modality": "private_video_recording_alleged",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "detection",
+      "distribution",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 1,
+    "text": "hyderabad police trainee private-video allegation and contested investigation telangana lc-03 a3 reported_limited_sharing_to_spouse covert_recording_and_alleged_spouse_targeted_disclosure private_video_recording_alleged reported_limited_sharing complainant alleged a private recording was created without permission. complainant alleged sending of a video to her spouse. formal complaint prompted a police investigation; allegations are contested. authorities reported arrest or detention and subsequent custody proceedings."
+  },
+  {
+    "incident_id": "LCI-0049",
+    "label": "Hyderabad pub visit coercive recording and spouse-directed extortion",
+    "state": "Telangana",
+    "category": "LC-03",
+    "modality": "coercively_staged_private_image_or_video_alleged",
+    "scope": "reported_limited_sharing",
+    "acquisition_code": "A3",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "distribution",
+      "enforcement",
+      "recording"
+    ],
+    "issues_count": 0,
+    "text": "hyderabad pub visit coercive recording and spouse-directed extortion telangana lc-03 a3 reported_limited_sharing_to_spouse abduction_staged_photographs_and_spouse_targeted_ransom coercively_staged_private_image_or_video_alleged reported_limited_sharing a man was allegedly lured or abducted after a meeting. complainant alleged coerced or staged compromising photographs or clips. reports described sending footage or photographs to a spouse to support demands. police reportedly arrested members of the alleged group."
+  },
+  {
+    "incident_id": "LCI-0050",
+    "label": "Ahmedabad false astrologer persona and manipulated-image sextortion",
+    "state": "Gujarat",
+    "category": "LC-07",
+    "modality": "coerced_personal_video_and_manipulated_images_reported",
+    "scope": "threat_only",
+    "acquisition_code": "A7",
+    "sources": 3,
+    "event_types": [
+      "acquisition",
+      "enforcement",
+      "synthetic_generation",
+      "threat"
+    ],
+    "issues_count": 1,
+    "text": "ahmedabad false astrologer persona and manipulated-image sextortion gujarat lc-07 a7 threatened_online_exposure_or_referrals fake_astrology_identity_personal_image_solicitation_and_extortion coerced_personal_video_and_manipulated_images_reported threat_only police alleged false astrologer profiles induced disclosure of private images or videos. reports described alleged manipulation of captured or supplied images. suspects allegedly used disclosure threats to demand money from contacts. cybercrime police reportedly arrested suspects and traced social accounts."
+  }
+]

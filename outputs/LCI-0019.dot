@@ -1,0 +1,10 @@
+digraph "LCI-0019" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-069" [label="EV-069 | distribution date unknown Police described online posting of private images through a fake account; original acquisition not identified."];
+  "EV-070" [label="EV-070 | threat date unknown An alleged monetary demand was made in exchange for disabling the account."];
+  "EV-069" -> "EV-070";
+  "EV-071" [label="EV-071 | enforcement date unknown Police reported registering case and searching for suspect."];
+  "EV-070" -> "EV-071";
+}

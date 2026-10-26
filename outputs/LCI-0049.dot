@@ -1,0 +1,12 @@
+digraph "LCI-0049" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-196" [label="EV-196 | acquisition date unknown A man was allegedly lured or abducted after a meeting."];
+  "EV-197" [label="EV-197 | recording date unknown Complainant alleged coerced or staged compromising photographs or clips."];
+  "EV-196" -> "EV-197";
+  "EV-198" [label="EV-198 | distribution date unknown Reports described sending footage or photographs to a spouse to support demands."];
+  "EV-197" -> "EV-198";
+  "EV-199" [label="EV-199 | enforcement date unknown Police reportedly arrested members of the alleged group."];
+  "EV-198" -> "EV-199";
+}

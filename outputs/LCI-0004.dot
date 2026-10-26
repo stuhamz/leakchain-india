@@ -1,0 +1,12 @@
+digraph "LCI-0004" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-018" [label="EV-018 | recording date unknown Police said cameras were covertly placed to record couples in hotel rooms."];
+  "EV-019" [label="EV-019 | threat date unknown Investigators described threats to expose the recordings during alleged extortion."];
+  "EV-018" -> "EV-019";
+  "EV-020" [label="EV-020 | enforcement date unknown Police announced arrests and filing of a case following investigation."];
+  "EV-019" -> "EV-020";
+  "EV-021" [label="EV-021 | mitigation date unknown Reporting indicated the hotel platform was conducting an internal inquiry."];
+  "EV-020" -> "EV-021";
+}

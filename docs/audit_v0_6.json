@@ -1,0 +1,68 @@
+{
+  "release": "0.6-working",
+  "date": "2026-10-26",
+  "status": "UNPUBLISHED",
+  "baseline": "v0.5 preserved in data/frozen_v0_5",
+  "accounting": {
+    "incidents": 32,
+    "sources": 97,
+    "case_sources": 95,
+    "context_sources": 2,
+    "events": 125,
+    "claims": 127,
+    "cases_with_3plus_sources": 25,
+    "cases_below_3_sources": 7,
+    "registered_source_deficit_to_3": 10,
+    "source_lineages_independently_certified": 0
+  },
+  "additions": {
+    "incident_ids": [
+      "LCI-0029",
+      "LCI-0030",
+      "LCI-0031",
+      "LCI-0032"
+    ],
+    "source_ids": [
+      "SB-083",
+      "SB-084",
+      "SB-085",
+      "SB-086",
+      "SB-087",
+      "SB-088",
+      "SB-089",
+      "SB-090",
+      "SB-091",
+      "SB-092",
+      "SB-093",
+      "SB-094",
+      "SB-095",
+      "SB-096",
+      "SB-097"
+    ],
+    "backfill_incident_ids": [
+      "LCI-0017",
+      "LCI-0020"
+    ]
+  },
+  "audit_checks": {
+    "continuous_primary_ids": "PASS",
+    "referential_integrity": "PASS",
+    "registered_source_count_matches_publication_gate": "PASS",
+    "source_audit_rows_match_source_ids": "PASS",
+    "historical_copy_preserved": "PASS",
+    "coding_exception_tracking": "PASS",
+    "dataset_validation": "PASS",
+    "reconstruction_count": 32,
+    "unit_tests_passed": 43,
+    "zip_integrity": "checked_after_archive_creation",
+    "manifest_integrity": "checked_after_archive_creation"
+  },
+  "publication_hold_reasons": [
+    "Only 32/50 desired admitted incidents",
+    "Seven episodes have fewer than three registered references",
+    "Independent primary source lineages not certified",
+    "Specific documentary corrections remain pending"
+  ],
+  "original_media_stored": false,
+  "github_pushed": false
+}

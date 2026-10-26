@@ -1,0 +1,12 @@
+digraph "LCI-0045" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-179" [label="EV-179 | acquisition date unknown Complaint alleged a former acquaintance held private recordings or photographs."];
+  "EV-180" [label="EV-180 | threat date unknown Complainant reported demands for sexual favours under exposure threats."];
+  "EV-179" -> "EV-180";
+  "EV-181" [label="EV-181 | evidence_collection date unknown Investigators reportedly seized storage media containing additional content."];
+  "EV-180" -> "EV-181";
+  "EV-182" [label="EV-182 | enforcement date unknown Police reported arresting the suspect and examining other accusations."];
+  "EV-181" -> "EV-182";
+}

@@ -1,0 +1,14 @@
+digraph "LCI-0030" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-112" [label="EV-112 | acquisition date unknown Reports describe access to non-explicit photographs arising from a former relationship."];
+  "EV-113" [label="EV-113 | synthetic_generation date unknown Police alleged the original images were edited into explicit-looking versions."];
+  "EV-112" -> "EV-113";
+  "EV-114" [label="EV-114 | distribution date unknown Police reported posting altered images via impersonating social accounts."];
+  "EV-113" -> "EV-114";
+  "EV-115" [label="EV-115 | detection 2025-04-10 Police said a complaint was lodged in Bhubaneswar on 10 April."];
+  "EV-114" -> "EV-115";
+  "EV-116" [label="EV-116 | enforcement date unknown Police reported an April arrest and stated a court remanded the accused."];
+  "EV-115" -> "EV-116";
+}

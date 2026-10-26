@@ -1,0 +1,10 @@
+digraph "LCI-0015" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-055" [label="EV-055 | camera_placement date unknown Residents discovered cameras concealed in charger-like devices; whether private videos were captured is unresolved."];
+  "EV-056" [label="EV-056 | detection date unknown Residents notified police and devices were seized."];
+  "EV-055" -> "EV-056";
+  "EV-057" [label="EV-057 | enforcement date unknown Police reported arrest and ongoing examination of storage devices."];
+  "EV-056" -> "EV-057";
+}

@@ -1,0 +1,12 @@
+digraph "LCI-0050" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-200" [label="EV-200 | acquisition date unknown Police alleged false astrologer profiles induced disclosure of private images or videos."];
+  "EV-201" [label="EV-201 | synthetic_generation date unknown Reports described alleged manipulation of captured or supplied images."];
+  "EV-200" -> "EV-201";
+  "EV-202" [label="EV-202 | threat date unknown Suspects allegedly used disclosure threats to demand money from contacts."];
+  "EV-201" -> "EV-202";
+  "EV-203" [label="EV-203 | enforcement date unknown Cybercrime police reportedly arrested suspects and traced social accounts."];
+  "EV-202" -> "EV-203";
+}

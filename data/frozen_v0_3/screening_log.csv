@@ -1,0 +1,35 @@
+candidate_id,candidate_description,decision,linked_incident_id,rationale,registered_source_ids
+SC-001,Shahdol changing-room recordings May 2025,admitted,LCI-0003,PTI original lineage; third-party reprints not independent,SB-010
+SC-002,Noida hotel covert recording October 2022,admitted,LCI-0004,Recording and threats documented; public publication unverified,SB-011;SB-012
+SC-003,Bengaluru former colleague and fake profiles September 2023,admitted,LCI-0005,Private photo posts distinguished from threatened/held videos,SB-013
+SC-004,Delhi online relationship private-photo sharing September 2022,admitted,LCI-0006,Original recipient alleged to distribute; no hack inferred,SB-014
+SC-005,Prayagraj event filming February 2025,admitted,LCI-0007,Police attribution via one PTI source lineage,SB-015
+SC-006,Mumbai former-partner private-photo posts June 2022,admitted,LCI-0008,Private images and online posting described in original reporting,SB-016
+SC-007,Additional PTI reprints of Shahdol incident,duplicate,LCI-0003,Same underlying source and episode; no separate case or independent corroboration,
+SC-008,Bengaluru former girlfriend extortion threat December 2024,deferred,,"Threat to disclose reported, no public posting; possible future comparator of threatened disclosures",
+SC-009,Delhi AI-generated altered images July 2025,out_of_scope,,LC-05 synthetic imaging is deferred to separate planned subcorpus,
+SC-010,Bengaluru metro filming in public May 2025,out_of_scope,,Primary recording is of people in public transit and not adequately established as private or intimate acts,
+SC-011,Bengaluru corporate washroom filming July 2025,deferred,,Covert recording and response reported; clarify case scope before including without circulation evidence,
+SC-012,Hyderabad hotel covert camera August 2024,deferred,,Report says no intimate video files found in seized devices; needs forensic outcome clarification,
+SC-013,Jabalpur university hostel bathroom recording and limited sharing,admitted,LCI-0009,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-017;SB-018
+SC-014,Diu hotel concealed-camera recording and alleged extortion,admitted,LCI-0010,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-019;SB-020
+SC-015,Azamgarh hostel covert bathroom recording investigation,admitted,LCI-0011,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-021
+SC-016,Bhopal MRI-centre changing-room recording,admitted,LCI-0012,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-022
+SC-017,Gorakhpur hostel washroom phone-recording complaint,admitted,LCI-0013,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-023;SB-024
+SC-018,Hosur women hostel concealed-camera placement case,admitted,LCI-0014,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-025
+SC-019,Ameenpur womens hostel camera concealed in charger,admitted,LCI-0015,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-026;SB-027
+SC-020,Bhubaneswar ex-partner private-media disclosure via fake profile,admitted,LCI-0016,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-028
+SC-021,Goa December former-partner private-media transmission case,admitted,LCI-0017,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-029;SB-030
+SC-022,Wayanad former-partner private-photo publication case,admitted,LCI-0018,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-031
+SC-023,Mumbai private-image online posting and extortion complaint,admitted,LCI-0019,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-032
+SC-024,Aligarh dating-app entrapment and recorded-video blackmail allegations,admitted,LCI-0020,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-033
+SC-025,Delhi Shahdara dating-video blackmail operation July 2025,admitted,LCI-0021,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-034
+SC-026,Goa September former-partner private-photo disclosure through fake accounts,admitted,LCI-0022,Source-backed separate episode. Digital acquisition and circulation stages individually assessed; original records or platform logs not held.,SB-035
+SC-027,CMR engineering college hostel Hyderabad January 2025,deferred,,Earlier police checks found no videos on seized phones; later arrests do not resolve acquisition or circulation; further forensic result needed,
+SC-028,Gudlavalleru engineering college alleged hidden camera 2024,excluded,,"Detailed later police and forensic investigation reported no hidden cameras or illicit videos, reversing early rumours",
+SC-029,Hyderabad Shamshabad hotel hidden camera 2024,deferred,,Police found no relevant recordings on seized devices at initial report; requires subsequent forensic evidence,
+SC-030,Delhi ex-partner AI-altered content July 2025,out_of_scope,,"Synthetic manipulation belongs to separate LC-05, not initial original-footage study",
+SC-031,Rajkot CCTV sales case later national press 2025,duplicate,,"Already LCI-0001, multiple publications about same investigated operation",
+SC-032,Shahdol shop changing-room PTI reprints 2025,duplicate,,Already LCI-0003; PTI syndication cannot create new incident,
+SC-033,Delhi Shahdara June 2025 earlier two arrests,deferred,,Potential overlap with July 2025 arrests and investigation; not split into separate episode without case identifiers,
+SC-034,Ameenpur hostel alternate early reporting 2025,duplicate,,Same Ameenpur cameras incident as new code; conflicting account claims annotated rather than separate row,

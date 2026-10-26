@@ -1,0 +1,14 @@
+digraph "LCI-0035" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-136" [label="EV-136 | acquisition date unknown Complainant said an online acquaintance obtained photos and videos through emotional pressure."];
+  "EV-137" [label="EV-137 | distribution date unknown Police described multiple impersonated social-media accounts used for online harassment."];
+  "EV-136" -> "EV-137";
+  "EV-138" [label="EV-138 | threat date unknown Reports describe money demands, fabricated legal notices and threats to victim or family."];
+  "EV-137" -> "EV-138";
+  "EV-139" [label="EV-139 | evidence_collection date unknown Police attributed accounts to a common telephone number and reported recovered devices."];
+  "EV-138" -> "EV-139";
+  "EV-140" [label="EV-140 | enforcement 2025-05-29 Delhi Police reported arrest following investigation in late May."];
+  "EV-139" -> "EV-140";
+}

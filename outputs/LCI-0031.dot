@@ -1,0 +1,14 @@
+digraph "LCI-0031" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-117" [label="EV-117 | acquisition date unknown Local reporting says an ordinary photograph was obtained as input to manipulated media."];
+  "EV-118" [label="EV-118 | synthetic_generation date unknown Police allege an AI tool was used to construct an explicit-looking video."];
+  "EV-117" -> "EV-118";
+  "EV-119" [label="EV-119 | distribution date unknown Police said the fabricated video was sent directly to a family member."];
+  "EV-118" -> "EV-119";
+  "EV-120" [label="EV-120 | threat date unknown Police reported a demand for money with a threat of wider online circulation."];
+  "EV-119" -> "EV-120";
+  "EV-121" [label="EV-121 | enforcement date unknown Regional police reported arrest of two suspects following a family complaint."];
+  "EV-120" -> "EV-121";
+}

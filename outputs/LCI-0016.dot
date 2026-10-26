@@ -1,0 +1,12 @@
+digraph "LCI-0016" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-058" [label="EV-058 | acquisition date unknown Police described possession of private images and videos from an earlier relationship."];
+  "EV-059" [label="EV-059 | threat date unknown The person was alleged to have threatened to post the material to pressure reconciliation."];
+  "EV-058" -> "EV-059";
+  "EV-060" [label="EV-060 | distribution date unknown Police said images or videos were subsequently posted using an impersonating profile."];
+  "EV-059" -> "EV-060";
+  "EV-061" [label="EV-061 | enforcement date unknown Police reported arrest and mobile-phone seizure."];
+  "EV-060" -> "EV-061";
+}

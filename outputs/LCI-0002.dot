@@ -1,0 +1,16 @@
+digraph "LCI-0002" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-008" [label="EV-008 | recording date unknown The source material was described as footage from the surveillance systems of three state-run cinemas."];
+  "EV-009" [label="EV-009 | distribution date unknown Investigative reporting documented circulation and commercial offers involving theatre footage."];
+  "EV-008" -> "EV-009";
+  "EV-010" [label="EV-010 | publication 2025-12-01 An original investigation into the circulation was published."];
+  "EV-009" -> "EV-010";
+  "EV-011" [label="EV-011 | mitigation 2025-12-03 Theatre management described changes to surveillance access and passwords."];
+  "EV-010" -> "EV-011";
+  "EV-012" [label="EV-012 | enforcement 2025-12-05 A cybercrime FIR was registered following a complaint by the theatre operator."];
+  "EV-011" -> "EV-012";
+  "EV-013" [label="EV-013 | oversight 2026-10-23 The Human Rights Commission directed greater oversight of the ongoing investigation."];
+  "EV-012" -> "EV-013";
+}

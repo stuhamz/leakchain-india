@@ -1,0 +1,10 @@
+digraph "LCI-0021" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-076" [label="EV-076 | recording date unknown Police alleged an intimate video call was covertly recorded during a dating-app interaction."];
+  "EV-077" [label="EV-077 | threat date unknown The recording was sent to complainant and threatened to be circulated more widely; only this private transfer established by report."];
+  "EV-076" -> "EV-077";
+  "EV-078" [label="EV-078 | enforcement date unknown Police described complaint, investigation and arrests of four persons."];
+  "EV-077" -> "EV-078";
+}

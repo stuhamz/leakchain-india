@@ -1,0 +1,53 @@
+{
+  "version": "0.9-quality-checkpoint",
+  "review_date": "2026-10-26",
+  "status": "UNPUBLISHED_PRE_UI",
+  "incident_count": 50,
+  "source_count": 161,
+  "case_source_count": 159,
+  "context_source_count": 2,
+  "event_count": 203,
+  "claim_count": 220,
+  "all_incidents_have_3_registered_sources": true,
+  "min_source_count": 3,
+  "cases_with_3_or_more_sources": 50,
+  "lineage_independent_fact_certifications": 0,
+  "primary_procedural_source_count": 3,
+  "findings": [
+    "All 50 incidents now meet at least three registered documents.",
+    "Three documents are NOT equivalent to three independent fact lineages.",
+    "Judicial bail/filing records establish procedural history, not guilt or dissemination.",
+    "Several unresolved factual conflicts remain and are tagged.",
+    "Incident-level sequence arrows encode narrative display order, not proven causal flows.",
+    "Original intimate media, victim handles, and account identifiers are excluded."
+  ],
+  "hold_items": [
+    "Independent second-reviewer sample and incident-fact lineage verification not done.",
+    "No original technical forensic case records supplied for most incidents.",
+    "Unresolved source discrepancies documented in coding_exceptions.csv.",
+    "UI still to be built and checked before public GitHub publication."
+  ],
+  "publication_ready": false,
+  "github_pushed": false,
+  "next_incident_id": "LCI-0051",
+  "next_source_id": "SB-162",
+  "next_event_id": "EV-204",
+  "next_claim_id": "CL-221",
+  "quality_tests_passed": 70,
+  "original_v08_manifest_verified_files": 141,
+  "counting_rule": "3 registered case-linked documents, not 3 independent fact lineages",
+  "source_independence_review_status": "conservative/provisional; no blanket certificate",
+  "court_distinctions": {
+    "LCI-0023": "trial court adjudicated conviction, appellate outcome not verified",
+    "LCI-0016": "court filing and bail procedural only"
+  },
+  "ui_status": "data exports and design plan created, web UI not yet implemented",
+  "case_by_category": {
+    "LC-01": 2,
+    "LC-03": 19,
+    "LC-02": 15,
+    "LC-04": 2,
+    "LC-05": 8,
+    "LC-07": 4
+  }
+}

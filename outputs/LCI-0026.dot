@@ -1,0 +1,12 @@
+digraph "LCI-0026" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-096" [label="EV-096 | acquisition date unknown Police attributed creation of synthetic representations to a former acquaintance using an adult woman’s likeness."];
+  "EV-097" [label="EV-097 | publication date unknown Police reported impersonating social-media profiles were used to post fabricated content."];
+  "EV-096" -> "EV-097";
+  "EV-098" [label="EV-098 | distribution date unknown Investigators described a paid subscription arrangement for access to fabricated material."];
+  "EV-097" -> "EV-098";
+  "EV-099" [label="EV-099 | enforcement 2025-07-12 Police reportedly arrested a person in connection with the impersonation and distribution allegations."];
+  "EV-098" -> "EV-099";
+}

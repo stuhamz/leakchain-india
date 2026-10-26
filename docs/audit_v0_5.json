@@ -1,0 +1,47 @@
+{
+  "data_row_counts": {
+    "version": "0.5-working",
+    "date": "2026-10-26",
+    "status": "UNPUBLISHED",
+    "base_archive": "LeakChain_India_v0_4_Quality_Checkpoint_25_Incidents.zip",
+    "original_source_rows": 57,
+    "incidents": 28,
+    "registered_sources_total": 82,
+    "case_sources": 80,
+    "context_sources": 2,
+    "events": 107,
+    "claims": 107,
+    "sources_added": 25,
+    "new_incident_ids": [
+      "LCI-0026",
+      "LCI-0027",
+      "LCI-0028"
+    ],
+    "three_source_cases": 19,
+    "below_three_ids": [
+      "LCI-0005",
+      "LCI-0006",
+      "LCI-0008",
+      "LCI-0011",
+      "LCI-0016",
+      "LCI-0017",
+      "LCI-0019",
+      "LCI-0020",
+      "LCI-0022"
+    ],
+    "missing_sources_to_minimum": 12,
+    "category_counts": {
+      "LC-01": 2,
+      "LC-03": 12,
+      "LC-02": 10,
+      "LC-04": 1,
+      "LC-05": 3
+    }
+  },
+  "old_rows_preserved": true,
+  "old_summary_mismatch_corrected": true,
+  "validation": "PASS",
+  "lineage_independence": "NOT_YET_CERTIFIED",
+  "github_pushed": false,
+  "source_sha_manifest_entries": 76
+}

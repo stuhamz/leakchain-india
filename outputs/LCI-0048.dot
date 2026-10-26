@@ -1,0 +1,12 @@
+digraph "LCI-0048" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-192" [label="EV-192 | recording date unknown Complainant alleged a private recording was created without permission."];
+  "EV-193" [label="EV-193 | distribution date unknown Complainant alleged sending of a video to her spouse."];
+  "EV-192" -> "EV-193";
+  "EV-194" [label="EV-194 | detection date unknown Formal complaint prompted a police investigation; allegations are contested."];
+  "EV-193" -> "EV-194";
+  "EV-195" [label="EV-195 | enforcement date unknown Authorities reported arrest or detention and subsequent custody proceedings."];
+  "EV-194" -> "EV-195";
+}

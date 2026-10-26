@@ -1,0 +1,18 @@
+digraph "LCI-0001" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-001" [label="EV-001 | acquisition date unknown Investigators attributed unauthorised access to the hospital CCTV system to external actors."];
+  "EV-002" [label="EV-002 | distribution date unknown Investigators described circulation and offers to sell patient recordings via multiple online service roles."];
+  "EV-001" -> "EV-002";
+  "EV-003" [label="EV-003 | detection 2025-02-17 The matter came to police attention and an FIR was registered, according to reporting."];
+  "EV-002" -> "EV-003";
+  "EV-004" [label="EV-004 | evidence_collection 2025-02-18 Police reported locating footage on public video-hosting accounts during the investigation."];
+  "EV-003" -> "EV-004";
+  "EV-005" [label="EV-005 | enforcement 2025-02-19 Police announced arrests of initial suspects."];
+  "EV-004" -> "EV-005";
+  "EV-006" [label="EV-006 | prosecution 2025-05-17 An initial chargesheet was filed, according to the later investigative report."];
+  "EV-005" -> "EV-006";
+  "EV-007" [label="EV-007 | prosecution 2025-09-12 A supplementary chargesheet was filed, according to the later investigative report."];
+  "EV-006" -> "EV-007";
+}

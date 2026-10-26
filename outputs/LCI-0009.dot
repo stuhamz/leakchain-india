@@ -1,0 +1,10 @@
+digraph "LCI-0009" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-037" [label="EV-037 | recording date unknown Police said a student was accused of recording another student in a private hostel bathroom."];
+  "EV-038" [label="EV-038 | distribution date unknown Police alleged the recording was sent to one person outside the hostel, not posted publicly."];
+  "EV-037" -> "EV-038";
+  "EV-039" [label="EV-039 | enforcement date unknown Police detained the student and reported registering a case."];
+  "EV-038" -> "EV-039";
+}

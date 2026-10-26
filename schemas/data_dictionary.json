@@ -1,0 +1,84 @@
+{
+  "version": "0.9",
+  "review_date": "2026-10-26",
+  "categories": {
+    "LC-01": "institutional surveillance",
+    "LC-02": "relationship-based disclosure",
+    "LC-03": "covert recording",
+    "LC-04": "personal account/device compromise",
+    "LC-05": "synthetic or manipulated content",
+    "LC-06": "child exploitation platform-governance context only",
+    "LC-07": "impersonation-induced intimate content solicitation and extortion (no verified prior intimate relationship)"
+  },
+  "acquisition_codes": {
+    "A0": "unknown",
+    "A1": "institutional infrastructure intrusion",
+    "A2": "insider misuse",
+    "A3": "covert original recording",
+    "A4": "disclosure by possessor",
+    "A5": "personal account/device compromise",
+    "A6": "synthetic generation",
+    "A7": "other documented"
+  },
+  "status_note": "claims are source-specific assertions; police and chargesheet allegations do not equal court findings; v0.6 synthetic_generation explicitly denotes fabricated imagery, not original recording; v0.7 LC-07 prevents misclassifying impersonation-based grooming as an existing romantic relationship; v0.7 device-repair unauthorized copying is an A5 allegation not remote hacking. v0.8 preserves contradictory source-specific counts, separates primary judicial procedural facts from alleged offences, and includes 12 case-identified new episodes. Publication is still blocked. v0.9 closes the source document count for all 50 cases but does not certify independent incident-fact corroboration. New separate source/claim evidence audits distinguish trial-court adjudication from procedural judicial records and retain publication hold. UI-ready exports are non-causal display-only data.",
+  "incident_acquisition_status_values": [
+    "unknown",
+    "official_allegation_reported",
+    "journalist_original_observation",
+    "judicial_finding"
+  ],
+  "event_types": [
+    "recording",
+    "acquisition",
+    "distribution",
+    "detection",
+    "evidence_collection",
+    "publication",
+    "mitigation",
+    "enforcement",
+    "prosecution",
+    "oversight",
+    "threat",
+    "camera_placement",
+    "synthetic_generation"
+  ],
+  "claim_status_values": [
+    "official_allegation_reported",
+    "journalist_original_observation",
+    "media_report_of_official_action",
+    "media_report_of_institutional_response",
+    "publication_metadata",
+    "judicial_finding",
+    "unverified_report"
+  ],
+  "date_precision": [
+    "day",
+    "unknown"
+  ],
+  "sequence_basis": [
+    "reported_event_date",
+    "report_publication_date",
+    "analytical_stage"
+  ],
+  "source_role": [
+    "case",
+    "context"
+  ],
+  "source_kind": [
+    "investigative_journalism",
+    "news_reporting",
+    "wire_reporting",
+    "government_publication",
+    "platform_statement",
+    "judicial_primary",
+    "academic_research"
+  ],
+  "circulation_scope_values": [
+    "reported_public_or_commercial",
+    "reported_wider_circulation_unspecified",
+    "reported_public_posting",
+    "reported_limited_sharing",
+    "threat_only",
+    "not_established"
+  ]
+}

@@ -1,0 +1,12 @@
+digraph "LCI-0046" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-183" [label="EV-183 | acquisition date unknown An online friendship reportedly preceded private video calls."];
+  "EV-184" [label="EV-184 | recording date unknown Complainant alleged screenshots from private video calls were retained."];
+  "EV-183" -> "EV-184";
+  "EV-185" [label="EV-185 | threat date unknown Alleged operators demanded valuables and threatened sharing with relatives."];
+  "EV-184" -> "EV-185";
+  "EV-186" [label="EV-186 | enforcement date unknown Police reported arrests and efforts to recover stolen assets."];
+  "EV-185" -> "EV-186";
+}

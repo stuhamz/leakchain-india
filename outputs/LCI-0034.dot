@@ -1,0 +1,14 @@
+digraph "LCI-0034" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-131" [label="EV-131 | acquisition date unknown Complainant alleged private clips were copied from a phone delivered to a repair shop."];
+  "EV-132" [label="EV-132 | threat date unknown Complaint describes repeated blackmail and coercion using extracted content."];
+  "EV-131" -> "EV-132";
+  "EV-133" [label="EV-133 | distribution 2026-08-28 Police cited public circulation of at least one private video on more than one occasion."];
+  "EV-132" -> "EV-133";
+  "EV-134" [label="EV-134 | detection date unknown Reports describe an early complaint but contain an inconsistent January 2024 timing."];
+  "EV-133" -> "EV-134";
+  "EV-135" [label="EV-135 | enforcement date unknown Police reported filing allegations against six individuals in October 2026."];
+  "EV-134" -> "EV-135";
+}

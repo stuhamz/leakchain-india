@@ -1,0 +1,12 @@
+digraph "LCI-0037" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-146" [label="EV-146 | acquisition date unknown Complainant said a former partner persuaded her to provide an OTP and obtained contacts."];
+  "EV-147" [label="EV-147 | threat date unknown Complainant described harassment of contacts and threats of image exposure."];
+  "EV-146" -> "EV-147";
+  "EV-148" [label="EV-148 | distribution date unknown Photographs were allegedly sent to prospective in-laws."];
+  "EV-147" -> "EV-148";
+  "EV-149" [label="EV-149 | detection date unknown Complainant contacted Medipally police following disputed disclosure."];
+  "EV-148" -> "EV-149";
+}

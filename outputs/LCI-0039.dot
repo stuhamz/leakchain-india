@@ -1,0 +1,12 @@
+digraph "LCI-0039" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-155" [label="EV-155 | camera_placement date unknown Investigators alleged a concealed camera was installed in a hotel room."];
+  "EV-156" [label="EV-156 | recording date unknown Police reports described unauthorised video capture of guests."];
+  "EV-155" -> "EV-156";
+  "EV-157" [label="EV-157 | threat date unknown A couple allegedly received demands under threat of publishing the recording."];
+  "EV-156" -> "EV-157";
+  "EV-158" [label="EV-158 | enforcement date unknown Police reported arrests and device seizures after a complaint."];
+  "EV-157" -> "EV-158";
+}

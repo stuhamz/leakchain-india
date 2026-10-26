@@ -1,0 +1,12 @@
+digraph "LCI-0028" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-104" [label="EV-104 | recording date unknown A couple reportedly recorded intimate videos during their earlier relationship."];
+  "EV-105" [label="EV-105 | threat date unknown Police said one person threatened to publish private footage to obtain money and property."];
+  "EV-104" -> "EV-105";
+  "EV-106" [label="EV-106 | detection date unknown The alleged victim approached police and described a prolonged pattern of demands."];
+  "EV-105" -> "EV-106";
+  "EV-107" [label="EV-107 | enforcement 2024-12-06 Bengaluru police announced an arrest and stated some alleged proceeds were recovered."];
+  "EV-106" -> "EV-107";
+}

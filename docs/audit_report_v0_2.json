@@ -1,0 +1,79 @@
+{
+  "checkpoint": "2026-10-26-v0.2.0",
+  "total_incidents": 8,
+  "new_incidents": 6,
+  "total_events": 36,
+  "total_claims": 36,
+  "total_sources": 16,
+  "case_source_records": 14,
+  "context_source_records": 2,
+  "categories": {
+    "LC-01": 2,
+    "LC-03": 3,
+    "LC-02": 3
+  },
+  "new_source_ids": [
+    "SB-010",
+    "SB-011",
+    "SB-012",
+    "SB-013",
+    "SB-014",
+    "SB-015",
+    "SB-016"
+  ],
+  "new_claim_ids": [
+    "CL-014",
+    "CL-015",
+    "CL-016",
+    "CL-017",
+    "CL-018",
+    "CL-019",
+    "CL-020",
+    "CL-021",
+    "CL-022",
+    "CL-023",
+    "CL-024",
+    "CL-025",
+    "CL-026",
+    "CL-027",
+    "CL-028",
+    "CL-029",
+    "CL-030",
+    "CL-031",
+    "CL-032",
+    "CL-033",
+    "CL-034",
+    "CL-035",
+    "CL-036"
+  ],
+  "candidate_decisions": {
+    "admitted": 6,
+    "duplicate": 1,
+    "deferred": 3,
+    "out_of_scope": 2
+  },
+  "new_content_modalities": {
+    "video": 3,
+    "photo_and_video_reported": 1,
+    "photo": 2
+  },
+  "data_quality_checks": [
+    "original rows unchanged",
+    "unique IDs/URLs",
+    "foreign-key integrity",
+    "one profile per episode",
+    "no future source dates",
+    "reported claims linked to same-episode published source",
+    "threat differentiated from distribution",
+    "no unsupported A5 account compromise",
+    "safe source URLs only"
+  ],
+  "limitations": [
+    "No independent second researcher has coded the cases",
+    "Primary police and judicial exhibits not reviewed for newly admitted incidents",
+    "Event sequence for new cases is analytical, not independently verified chronology",
+    "Research sample is purposive and not representative",
+    "Syndicated copies are not independent sources"
+  ],
+  "carry_forward_source_audit_gap": "SB-006 original registered case source has incident-level but no direct event-claim linkage"
+}

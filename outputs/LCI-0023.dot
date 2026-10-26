@@ -1,0 +1,12 @@
+digraph "LCI-0023" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-082" [label="EV-082 | acquisition date unknown The complainant described access to her phone after the accused obtained a password without permission."];
+  "EV-083" [label="EV-083 | threat date unknown The judgment recounts pressure and threats to publish private media after a relationship dispute."];
+  "EV-082" -> "EV-083";
+  "EV-084" [label="EV-084 | distribution date unknown The court convicted the accused of non-consensual online publication of private recordings."];
+  "EV-083" -> "EV-084";
+  "EV-085" [label="EV-085 | enforcement 2018-03-07 Trial court entered a criminal conviction."];
+  "EV-084" -> "EV-085";
+}

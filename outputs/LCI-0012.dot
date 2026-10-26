@@ -1,0 +1,10 @@
+digraph "LCI-0012" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-046" [label="EV-046 | recording date unknown Police reported discovery of a concealed recording phone in an MRI-centre changing room."];
+  "EV-047" [label="EV-047 | detection date unknown A visitor discovered the device and reported it to authorities."];
+  "EV-046" -> "EV-047";
+  "EV-048" [label="EV-048 | enforcement date unknown Police detained a staff member and seized the device for forensic examination."];
+  "EV-047" -> "EV-048";
+}

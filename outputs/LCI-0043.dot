@@ -1,0 +1,12 @@
+digraph "LCI-0043" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-171" [label="EV-171 | recording date unknown Complainant alleged intimate content was acquired during a private encounter."];
+  "EV-172" [label="EV-172 | threat date unknown The content was allegedly used to demand money with threats of exposure."];
+  "EV-171" -> "EV-172";
+  "EV-173" [label="EV-173 | detection date unknown A complaint led investigators to arrange a controlled meeting."];
+  "EV-172" -> "EV-173";
+  "EV-174" [label="EV-174 | enforcement date unknown Police reported detaining a suspect while receiving money in the trap."];
+  "EV-173" -> "EV-174";
+}

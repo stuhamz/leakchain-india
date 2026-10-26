@@ -1,0 +1,12 @@
+digraph "LCI-0044" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-175" [label="EV-175 | acquisition date unknown Police alleged a suspect used a false platform-employee identity to induce video calls."];
+  "EV-176" [label="EV-176 | recording date unknown Private video-call interactions were allegedly captured without valid consent."];
+  "EV-175" -> "EV-176";
+  "EV-177" [label="EV-177 | threat date unknown Reported threats included public release or loss of platform access."];
+  "EV-176" -> "EV-177";
+  "EV-178" [label="EV-178 | enforcement date unknown Police reported arresting the alleged operator after tracing communications."];
+  "EV-177" -> "EV-178";
+}

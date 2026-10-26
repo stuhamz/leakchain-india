@@ -1,0 +1,14 @@
+digraph "LCI-0020" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-072" [label="EV-072 | recording date unknown Police alleged victims were recorded after being lured through online contact to a private meeting."];
+  "EV-073" [label="EV-073 | threat date unknown Complainants alleged recorded material was used for blackmail."];
+  "EV-072" -> "EV-073";
+  "EV-074" [label="EV-074 | evidence_collection date unknown Police said devices contained further recordings; ownership and conclusions remain allegations."];
+  "EV-073" -> "EV-074";
+  "EV-075" [label="EV-075 | enforcement date unknown Police reported two FIRs and one arrest in the investigation."];
+  "EV-074" -> "EV-075";
+  "EV-095" [label="EV-095 | oversight 2026-09-12 Local reporting states magistrate denied custodial remand, described the arrest as unlawful in one registered complaint, and released the accused on bond."];
+  "EV-075" -> "EV-095";
+}

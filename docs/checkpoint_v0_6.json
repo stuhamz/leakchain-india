@@ -1,0 +1,39 @@
+{
+  "version": "0.6-working",
+  "date": "2026-10-26",
+  "status": "UNPUBLISHED",
+  "base_archive": "LeakChain_India_v0_5_Audited_28_Incidents.zip",
+  "frozen_baseline": "data/frozen_v0_5",
+  "incidents": 32,
+  "registered_sources_total": 97,
+  "case_sources": 95,
+  "context_sources": 2,
+  "events": 125,
+  "claims": 127,
+  "new_incident_ids": [
+    "LCI-0029",
+    "LCI-0030",
+    "LCI-0031",
+    "LCI-0032"
+  ],
+  "sources_added": 15,
+  "three_source_cases": 25,
+  "below_three_ids": [
+    "LCI-0005",
+    "LCI-0006",
+    "LCI-0008",
+    "LCI-0011",
+    "LCI-0016",
+    "LCI-0019",
+    "LCI-0022"
+  ],
+  "missing_sources_to_minimum": 10,
+  "category_counts": {
+    "LC-01": 2,
+    "LC-03": 12,
+    "LC-02": 11,
+    "LC-04": 1,
+    "LC-05": 6
+  },
+  "source_lineages_independently_certified": 0
+}

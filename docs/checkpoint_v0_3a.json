@@ -1,0 +1,17 @@
+{
+  "checkpoint": "A - seven new episodes (LCI-0009 through LCI-0015)",
+  "incidents": 15,
+  "new_incidents": 7,
+  "events": 57,
+  "claims": 57,
+  "sources": 27,
+  "test_count": 11,
+  "preserved_original_rows": {
+    "incidents": true,
+    "sources": true,
+    "events": true,
+    "claims": true,
+    "content_profiles": true,
+    "screening_log": true
+  }
+}

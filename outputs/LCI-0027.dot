@@ -1,0 +1,12 @@
+digraph "LCI-0027" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-100" [label="EV-100 | acquisition date unknown Police reported that publicly available photos were manipulated with AI tools to create synthetic intimate depictions."];
+  "EV-101" [label="EV-101 | publication date unknown Police described repeated creation of impersonating social-media profiles and alleged posting to those accounts."];
+  "EV-100" -> "EV-101";
+  "EV-102" [label="EV-102 | evidence_collection date unknown Police said digital traces associated with the online accounts were used during investigation."];
+  "EV-101" -> "EV-102";
+  "EV-103" [label="EV-103 | enforcement 2025-07-01 Police reportedly arrested one individual and seized a phone for examination."];
+  "EV-102" -> "EV-103";
+}

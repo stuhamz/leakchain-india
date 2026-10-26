@@ -1,0 +1,20 @@
+name: Validate research dataset and site
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate data and source links
+        run: python src/validate.py
+      - name: Run all research and UI tests
+        run: python -m unittest discover -s tests -v
+      - name: Verify tracked file checksums
+        run: python src/verify_manifest.py

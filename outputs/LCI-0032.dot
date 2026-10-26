@@ -1,0 +1,12 @@
+digraph "LCI-0032" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-122" [label="EV-122 | acquisition date unknown Police alleged that intimate media was collected during a past relationship."];
+  "EV-123" [label="EV-123 | distribution date unknown Police alleged media was shared with others, with an accomplice also implicated."];
+  "EV-122" -> "EV-123";
+  "EV-124" [label="EV-124 | detection date unknown The complainant reportedly learnt of circulating private imagery and brought a police complaint."];
+  "EV-123" -> "EV-124";
+  "EV-125" [label="EV-125 | enforcement date unknown Police reported at least one suspect arrested and remanded; other reports describe two arrests."];
+  "EV-124" -> "EV-125";
+}

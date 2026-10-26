@@ -1,0 +1,23 @@
+incident_id,content_modality,circulation_scope,exploitation_mode,profile_note
+LCI-0001,video,reported_public_or_commercial,commercial_distribution_alleged,Backfilled from v0.1 pilot; original evidence statuses unchanged.
+LCI-0002,video,reported_public_or_commercial,commercial_distribution_documented,Backfilled from v0.1 pilot; original evidence statuses unchanged.
+LCI-0003,video,reported_wider_circulation_unspecified,unauthorised_recording_and_sharing,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0004,video,threat_only,coercion_and_extortion,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0005,photo_and_video_reported,reported_public_posting,coercion_and_impersonation,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0006,photo,reported_public_posting,disclosure_and_impersonation,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0007,video,reported_public_posting,attention_or_monetisation_alleged,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0008,photo,reported_public_posting,post_relationship_harassment,v0.2 systematic expansion; report-based coding only; no direct evidence collection.
+LCI-0009,video,reported_limited_sharing,covert_recording_and_limited_transfer,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0010,video,threat_only,covert_recording_and_extortion,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0011,video,threat_only,covert_recording_and_threat,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0012,video,not_established,unauthorised_private_recording,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0013,video,not_established,alleged_private_recording,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0014,potential_video,not_established,concealed_camera_placement,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0015,potential_video,not_established,concealed_camera_placement,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0016,photo_and_video_reported,reported_public_posting,coercion_and_disclosure,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0017,photo_and_video_reported,reported_limited_sharing,coercion_extortion_and_disclosure,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0018,photo,reported_public_posting,post_relationship_image_abuse,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0019,photo,reported_public_posting,online_image_coercion_and_extortion,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0020,video,threat_only,interpersonal_video_blackmail,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0021,video,threat_only,video_sextortion,v0.3 police-reported media research; acquisition and circulation stages coded separately.
+LCI-0022,photo,reported_limited_sharing,post_relationship_image_abuse,v0.3 police-reported media research; acquisition and circulation stages coded separately.

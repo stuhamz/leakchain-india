@@ -1,0 +1,10 @@
+digraph "LCI-0018" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-066" [label="EV-066 | acquisition date unknown Reporting describes earlier relationship during which the person had possession of private photographs."];
+  "EV-067" [label="EV-067 | distribution date unknown Police alleged the private photos were published online following the relationship breakdown."];
+  "EV-066" -> "EV-067";
+  "EV-068" [label="EV-068 | enforcement date unknown Cyber police travelled to another state and reported arrest."];
+  "EV-067" -> "EV-068";
+}

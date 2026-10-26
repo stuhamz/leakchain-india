@@ -1,0 +1,14 @@
+digraph "LCI-0047" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-187" [label="EV-187 | camera_placement date unknown Police alleged a hidden camera was placed in a clinic."];
+  "EV-188" [label="EV-188 | recording date unknown Recordings involving colleagues were allegedly captured by the device."];
+  "EV-187" -> "EV-188";
+  "EV-189" [label="EV-189 | distribution date unknown Police accounts suggested some material was shared with other accused participants."];
+  "EV-188" -> "EV-189";
+  "EV-190" [label="EV-190 | threat date unknown The recordings were allegedly leveraged for extortion."];
+  "EV-189" -> "EV-190";
+  "EV-191" [label="EV-191 | enforcement date unknown Police registered offences and reported investigation or arrests in successive accounts."];
+  "EV-190" -> "EV-191";
+}

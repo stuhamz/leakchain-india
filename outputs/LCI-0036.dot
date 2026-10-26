@@ -1,0 +1,14 @@
+digraph "LCI-0036" {
+  rankdir=TB;
+  node [shape=box, style=rounded, fontname="Arial"];
+  edge [label="display order only", fontsize=9];
+  "EV-141" [label="EV-141 | acquisition date unknown Police alleged actors downloaded ordinary public profile photographs as inputs."];
+  "EV-142" [label="EV-142 | synthetic_generation date unknown Police reported use of online image manipulation to fabricate intimate content."];
+  "EV-141" -> "EV-142";
+  "EV-143" [label="EV-143 | publication date unknown Police described repeated postings through fake accounts and channels."];
+  "EV-142" -> "EV-143";
+  "EV-144" [label="EV-144 | detection 2026-04-06 Complaint reportedly filed with Ahmedabad cyber police in April 2026."];
+  "EV-143" -> "EV-144";
+  "EV-145" [label="EV-145 | enforcement 2026-05-28 Ahmedabad police announced an arrest after tracing a suspect to Delhi."];
+  "EV-144" -> "EV-145";
+}

@@ -1,0 +1,158 @@
+source_id,incident_id,publisher,origin_lineage,independence_status,review_note
+SB-001,LCI-0001,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-002,LCI-0001,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-003,LCI-0002,The News Minute,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-004,LCI-0002,The News Minute,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-005,LCI-0002,The News Minute,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-006,LCI-0002,Kerala Kaumudi,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-007,LCI-0002,Deccan Chronicle / PTI,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-008,,Press Information Bureau / MeitY,context_only,CONTEXT,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-009,,Meta,context_only,CONTEXT,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-010,LCI-0003,Hindustan Times,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-011,LCI-0004,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-012,LCI-0004,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-013,LCI-0005,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-014,LCI-0006,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-015,LCI-0007,NDTV / PTI,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-016,LCI-0008,Hindustan Times,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-017,LCI-0009,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-018,LCI-0009,PTI via ThePrint,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-019,LCI-0010,India Today,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-020,LCI-0010,The Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-021,LCI-0011,NDTV,derived_secondary,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-022,LCI-0012,NDTV,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-023,LCI-0013,Hindustan Times,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-024,LCI-0013,PTI via ThePrint,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-025,LCI-0014,The New Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-026,LCI-0015,Telangana Today,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-027,LCI-0015,India Today,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-028,LCI-0016,The New Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-029,LCI-0017,The Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-030,LCI-0017,The Goan,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-031,LCI-0018,Onmanorama,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-032,LCI-0019,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-033,LCI-0020,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-034,LCI-0021,PTI via The Week,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-035,LCI-0022,PTI via NDTV,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-036,LCI-0001,Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-037,LCI-0003,Free Press Journal,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-038,LCI-0003,ThePrint / PTI,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-039,LCI-0004,The Tribune / PTI,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-040,LCI-0007,India Today / PTI,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-041,LCI-0010,DeshGujarat,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-042,LCI-0013,Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-043,LCI-0014,Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-044,LCI-0015,Hyderabad Mail,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-045,LCI-0018,News18 Malayalam,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-046,LCI-0018,Asianet News Malayalam,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-047,LCI-0023,"Court of Judicial Magistrate, Tamluk",primary_court_record,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-048,LCI-0023,Columbia Global Freedom of Expression,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-049,LCI-0023,Internet Democracy Project,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-050,LCI-0023,Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-051,LCI-0024,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-052,LCI-0024,India Today,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-053,LCI-0024,NDTV,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-054,LCI-0025,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-055,LCI-0025,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-056,LCI-0025,ThePrint,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-057,LCI-0025,Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-058,LCI-0012,Free Press Journal,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-059,LCI-0012,India Today,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-060,LCI-0012,ABP Live,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-061,LCI-0021,Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-062,LCI-0021,The New Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-063,LCI-0022,Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-064,LCI-0005,Bangalore Mirror,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-065,LCI-0007,Free Press Journal,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-066,LCI-0008,Mid-day,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-067,LCI-0009,NDTV / PTI,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-068,LCI-0011,Daily Jagran,derived_secondary,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-069,LCI-0014,Hindustan Times / PTI,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-070,LCI-0020,Amar Ujala,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-071,LCI-0026,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-072,LCI-0026,The New Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-073,LCI-0026,NDTV,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-074,LCI-0026,BBC News,original_journalism_with_police_interview,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-075,LCI-0027,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-076,LCI-0027,The New Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-077,LCI-0027,NDTV / PTI,PTI_wire_or_police,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-078,LCI-0027,OECD AI Incident Monitor,derived_secondary,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-079,LCI-0028,The Indian Express,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-080,LCI-0028,India Today,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-081,LCI-0028,Times of India,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-082,LCI-0028,NDTV,publisher_report_police_origin_or_unspecified,REVIEW_REQUIRED,Separate URL does not imply independent fact confirmation; examine underlying court/police/report source.
+SB-083,LCI-0017,The Navhind Times,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-084,LCI-0020,NDTV Hindi,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-085,LCI-0029,NDTV,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-086,LCI-0029,The Times of India,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-087,LCI-0029,The New Indian Express,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-088,LCI-0029,The Tribune,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-089,LCI-0030,The Times of India,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-090,LCI-0030,OdishaBytes,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-091,LCI-0030,OMMCOM News,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-092,LCI-0031,NDTV,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-093,LCI-0031,Vijayavani,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-094,LCI-0031,TV9 Kannada,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-095,LCI-0032,The Times of India,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-096,LCI-0032,The New Indian Express,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-097,LCI-0032,The Statesman,police_or_complainant_reporting_not_proved_independent,REVIEW_REQUIRED,Distinct published record; commonly relies on police press release/FIR and not adjudicated. Count as documentation only.
+SB-098,LCI-0006,NDTV / PTI,PTI_ANI_Bhasha_or_republication,REVIEW_REQUIRED,"PTI police-briefing wire; independent news URL, but not independent police/fact lineage."
+SB-099,LCI-0006,Indian Economic Observer / ANI,PTI_ANI_Bhasha_or_republication,REVIEW_REQUIRED,ANI syndicated reporting of same DCP police account; separate wire lineage from Indian Express.
+SB-100,LCI-0011,Amar Ujala,police_statement_or_complainant_report,REVIEW_REQUIRED,Local Varanasi-bureau report of same investigation; not proof footage was published.
+SB-101,LCI-0022,Devdiscourse,police_statement_or_complainant_report,REVIEW_REQUIRED,PTI police-briefing derivative: no independent factual confirmation beyond existing PTI report.
+SB-102,LCI-0033,India Today,police_statement_or_complainant_report,REVIEW_REQUIRED,Bylined Hyderabad report; reported investigation statistics all originate from police briefing.
+SB-103,LCI-0033,South First,police_statement_or_complainant_report,REVIEW_REQUIRED,Local regional publisher summary of police briefing. Count units and coverage must not be conflated.
+SB-104,LCI-0033,Asianet Newsable,police_statement_or_complainant_report,REVIEW_REQUIRED,Detailed publisher report but common DCP primary origin; source cites 27 profiles vs 29 including WhatsApp.
+SB-105,LCI-0034,Dainik Jagran,police_statement_or_complainant_report,REVIEW_REQUIRED,Bhadohi local correspondent reporting named police officials; independent investigation not established.
+SB-106,LCI-0034,Economic Times / PTI,PTI_ANI_Bhasha_or_republication,REVIEW_REQUIRED,PTI agency reporting reproduced by ET. Source says initial complaint 2024: timeline conflicts with first extraction month.
+SB-107,LCI-0034,IBC24 / Bhasha,PTI_ANI_Bhasha_or_republication,REVIEW_REQUIRED,Bhasha wire text visible in search result; site page blocked automated retrieval; documentary reference pending direct page inspection.
+SB-108,LCI-0035,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,Bylined local reporting including complainant allegations and police technical account; no adjudication.
+SB-109,LCI-0035,The Statesman,police_statement_or_complainant_report,REVIEW_REQUIRED,"Statesman News Service reporting police; technician theft was accused counterclaim, not technical finding."
+SB-110,LCI-0035,India Today,police_statement_or_complainant_report,REVIEW_REQUIRED,"Bylined report of police investigation, nine reported fake profiles and extortion demand."
+SB-111,LCI-0036,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Reporter quotes original Ahmedabad Cybercrime Branch statement, not independent forensic exhibit."
+SB-112,LCI-0036,NDTV,police_statement_or_complainant_report,REVIEW_REQUIRED,Reported official technical findings; neither generated content nor forensic extraction independently obtained.
+SB-113,LCI-0036,ThePrint,police_statement_or_complainant_report,REVIEW_REQUIRED,Named reporter follows case; same underlying police/FIR lineage for core allegation.
+SB-114,LCI-0037,Deccan Chronicle,police_statement_or_complainant_report,REVIEW_REQUIRED,Local correspondent; precise OTP technique only reported as complainant claim. No account take-over evidenced.
+SB-115,LCI-0037,Siasat,police_statement_or_complainant_report,REVIEW_REQUIRED,Regional reporting of Medipally complainant allegations; same police-origin facts.
+SB-116,LCI-0037,IND Today,police_statement_or_complainant_report,REVIEW_REQUIRED,Closely paraphrases regional reports and may be derivative; separate webpage is not separate proof.
+SB-117,LCI-0038,ThePrint / PTI,PTI_ANI_Bhasha_or_republication,REVIEW_REQUIRED,PTI wire; threats to upload distinct from reportedly sent to husband.
+SB-118,LCI-0038,The New Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,Same police/PTI facts may be syndicated; cannot certify independent investigation.
+SB-119,LCI-0038,Times of India,police_statement_or_complainant_report,REVIEW_REQUIRED,"Police-report based publication, no direct forensic AI image verification."
+SB-120,LCI-0039,NDTV,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-121,LCI-0039,Free Press Journal,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-122,LCI-0039,Amar Ujala,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-123,LCI-0040,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-124,LCI-0040,India Today,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-125,LCI-0040,All About Belgaum,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-126,LCI-0041,Amar Ujala,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-127,LCI-0041,Dainik Jagran,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-128,LCI-0041,ABP Live,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-129,LCI-0042,NDTV,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-130,LCI-0042,Times of India,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-131,LCI-0042,ThePrint,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-132,LCI-0043,Hindustan Times,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-133,LCI-0043,ThePrint,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-134,LCI-0043,Amar Ujala,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-135,LCI-0044,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-136,LCI-0044,The Tribune,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-137,LCI-0044,Hindustan Times,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-138,LCI-0045,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-139,LCI-0045,Deccan Herald,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-140,LCI-0045,The New Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-141,LCI-0046,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-142,LCI-0046,Times of India,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-143,LCI-0046,Daijiworld,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-144,LCI-0047,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-145,LCI-0047,India Today,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-146,LCI-0047,Times of India,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-147,LCI-0048,The New Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-148,LCI-0048,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-149,LCI-0048,India Today,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-150,LCI-0049,Telangana Today,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-151,LCI-0049,The New Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-152,LCI-0049,Times of India,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-153,LCI-0050,The Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-154,LCI-0050,Ahmedabad Mirror,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-155,LCI-0050,The New Indian Express,police_statement_or_complainant_report,REVIEW_REQUIRED,"Distinct publisher, but shared official-source lineage has not been excluded."
+SB-156,LCI-0016,Indian Kanoon (Orissa High Court order),original_court_order,REVIEW_REQUIRED,"Independent primary procedural document, not finding of underlying facts."
+SB-157,LCI-0019,Mid-day,police_statement_or_complainant_report,REVIEW_REQUIRED,Publisher adds a description that conflicts with earlier coverage; resolve via complaint file.
