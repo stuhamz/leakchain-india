@@ -165,7 +165,7 @@
     "src/export_ui_data.py": "d70b7f41061aa5b3dc4d11c178970739e021bfc882755cb674d681b3cb683709",
     "src/reconstruct.py": "4762f57c3407564a73d4039701d72f1a947166f89e8fe11ef5eb0a502d870b9a",
     "src/validate.py": "c0f7ce57d27c03bad8f4f297d63f2d9a6f63e3bf4f4649b1c9988d105f98220e",
-    "src/verify_manifest.py": "9386382d02bfe5b55de2ca6b3f4653152e860416c57dc0dc9a498d102fba11b3",
+    "src/verify_manifest.py": "a7c611bc4b0c5e821cd4db50fe283d8532da2024304a3e30e9424613dc0dd23a",
     "tests/test_data.py": "a49fecb637c4df9cf8dd5572da35630b257bfc1f6428036c62e9843dd0036888",
     "tests/test_site.py": "49110714a37b1ad69a72dde31fe6904335107296724259477c6ec63cab110b5d",
     "tests/test_v03.py": "1fcf682b30b3c9e56cf5bb7a23399e953c3d871c905966fce11c7a317ac8f593",
