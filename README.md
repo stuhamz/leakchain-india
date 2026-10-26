@@ -2,11 +2,11 @@
 
 ### An evidence-linked incident reconstruction atlas
 
-**Interactive research website and reproducible dataset · version 0.9.1 · 26 October 2026**
+**Interactive research website and reproducible dataset · version 0.9.2 · 26 October 2026**
 
-LeakChain India is a read-only research atlas of **50 screened incident episodes** documented in India. It offers interactive incident reconstruction graphs, event-level timelines, search and filters, case comparisons, exploratory analytics, and source-level evidence annotations. The research corpus contains **161 registered documents**, **203 reconstructed events**, and **220 evidence claims**.
+LeakChain India is a read-only research atlas of **50 screened incident episodes** documented in India. It offers interactive event-level timelines, search and filters, case comparisons, exploratory analytics, and source-level evidence annotations. The research corpus contains **161 registered documents**, **203 reconstructed events**, and **220 evidence claims**.
 
-> **Interpretation:** This is a purposive, source-attributed document corpus. Allegations are not judicial findings; separate publishers can cite the same originating report; graph arrows indicate narrative display order rather than causality or verified transmission. It is not an estimate of national crime prevalence. Independent fact-level corroboration and second-coder review are not certified for the complete corpus.
+> **Interpretation:** This is a purposive, source-attributed document corpus. Allegations are not judicial findings; separate publishers can cite the same originating report; timeline stages follow coded narrative order, rather than necessarily establishing actual chronology or transmission. It is not an estimate of national crime prevalence. Independent fact-level corroboration and second-coder review are not certified for the complete corpus.
 
 ![LeakChain India dashboard screenshot](docs/screenshots/overview.png)
 
@@ -16,7 +16,7 @@ LeakChain India is a read-only research atlas of **50 screened incident episodes
 
 1. Download and extract the repository ZIP.
 2. Open **`index.html`** in your browser. Data is already embedded in `assets/data.js`, so the site works offline.
-3. Explore incidents, graph nodes, event evidence, statistics and comparisons.
+3. Explore incidents, timeline stages, linked evidence, statistics and comparisons.
 
 Optionally, run `python -m http.server 8000` from the repository root and open `http://localhost:8000` to test the site under a conventional local web server.
 
@@ -36,12 +36,12 @@ All navigation uses URL fragments, e.g. `#/case/LCI-0001`, so case links work on
 |---|---|
 | **Overview** | Hero reconstruction illustration, corpus metrics, incident mechanisms, circulation composition, featured cases |
 | **Case explorer** | Full-text search, state/category/scope/stage/exception filters, sorting, pagination, filtered JSON/CSV export |
-| **Incident detail** | Zoomable horizontal event graph, synchronized event cards, selected-event evidence, court-status distinctions, linked sources, documented exceptions |
+| **Incident detail** | Interactive event timeline, selectable stages, selected-event evidence, court-status distinctions, linked sources, documented exceptions |
 | **Analytics** | Incident categories, states/territories, event types, reporting scope, source composition, date completeness, and review status |
 | **Compare** | Side-by-side case comparison, up to four records, aligned by mechanisms, sources, event types and limitations |
 | **Methodology** | Evidence standards, provenance rules, judicial nuance, source independence, supporting documentation |
 
-The visual graph explicitly labels **uncertain/unknown event dates**. Claim cards show their source, locator, evidence class, adjudication scope where applicable, and interpretative limit. **No incident photographs or private recordings are served by this repository.**
+The interactive timeline explicitly labels **uncertain/unknown event dates**. Claim cards show their source, locator, evidence class, adjudication scope where applicable, and interpretative limit. **No incident photographs or private recordings are served by this repository.**
 
 ## Dataset structure
 
@@ -57,7 +57,7 @@ data/                        Original audited CSV tables and frozen historical v
 src/                         Validation, data export, reconstruction, site-bundle and manifest tools
 tests/                       Research and website integrity tests
 docs/                        Research protocol, coding manual, quality-cycle report and checkpoints
-outputs/                     Regenerated case reconstructions and graph descriptions
+outputs/                     Regenerated case reconstructions and research graph descriptions
 manifest.json                 Checksums for tracked repository files
 LICENSE                       Existing project license
 ```
@@ -78,7 +78,7 @@ python src/verify_manifest.py
 
 If the CSVs change, regenerate `ui_data` and `assets/data.js` with `python src/build_site_data.py`. Regenerating tracked files also requires refreshing manifest hashes using `python src/build_manifest.py` before running the manifest verifier. The manifest script excludes its own output and bytecode caches.
 
-Detailed research limits are documented in [`docs/quality_cycle_v0_9.md`](docs/quality_cycle_v0_9.md), the [`coding manual`](docs/coding_manual.md), and the [`research protocol`](docs/research_protocol.md). A record of the UI implementation is at [`docs/interface_release_v0_9_1.md`](docs/interface_release_v0_9_1.md).
+Detailed research limits are documented in [`docs/quality_cycle_v0_9.md`](docs/quality_cycle_v0_9.md), the [`coding manual`](docs/coding_manual.md), and the [`research protocol`](docs/research_protocol.md). The current UI release notes are at [`docs/interface_release_v0_9_2.md`](docs/interface_release_v0_9_2.md); the previous version is preserved in [`v0.9.1`](docs/interface_release_v0_9_1.md).
 
 ## Privacy, ethics and scope
 

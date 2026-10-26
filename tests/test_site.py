@@ -59,6 +59,15 @@ class TestSite(unittest.TestCase):
  def test_protocol_assets_exist(self):
   for path in ['index.html','assets/app.js','assets/styles.css','assets/data.js','assets/favicon.svg','docs/coding_manual.md','docs/quality_cycle_v0_9.md','src/build_site_data.py']:
    self.assertTrue((ROOT/path).is_file(),path)
+ def test_incident_ui_uses_single_timeline_not_duplicate_graph(self):
+  script=(ROOT/'assets/app.js').read_text(encoding='utf8')
+  self.assertIn('<h2>Event timeline</h2>',script)
+  self.assertIn("document.querySelectorAll('[data-select-event]')",script)
+  self.assertNotIn('Interactive event sequence',script)
+  self.assertNotIn('diagram-scroll',script)
+  self.assertNotIn('graphSvg(',script)
+  self.assertNotIn('zoom-in',script)
+
  def test_site_is_local_and_deployable(self):
   page=(ROOT/'index.html').read_text(encoding='utf8')
   self.assertIn('assets/data.js',page)
